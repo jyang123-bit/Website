@@ -2,7 +2,7 @@
 layout: post
 title: Digital Cookbook
 categories:
-  - Offline development
+  - Offline 
 tags:
   - content
   - Cookbook
