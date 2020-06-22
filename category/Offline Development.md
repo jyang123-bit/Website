@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Online development
+title: Offline 
 category: My Category
 sidebar_link: true
 ---
