@@ -2,7 +2,7 @@
 layout: post
 title: "Books I Read"
 categories:
-  - Offline development
+  - Offline
 tags:
   - content
   - Offline
