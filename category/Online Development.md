@@ -1,5 +1,5 @@
 ---
 layout: category
-title: Online Development
+title: Online development
 category: My Category
 ---
