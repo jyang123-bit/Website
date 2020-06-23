@@ -1,3 +1,9 @@
+# Jekyll Configurations 
+markdown:         kramdown
+highlighter:      rouge
+name: Jing Yuh
+desription: 'Me'
+url: https://jyang123-bit.github.io/Jingy.me/
 remote_theme: fongandrew/hydeout
 
 paginate:         5
