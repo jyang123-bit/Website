@@ -4,7 +4,7 @@ title: "Books I Read"
 categories:
   - Offline
 tags:
-  - content
+  - Content
   - Offline
   - Books
 ---
