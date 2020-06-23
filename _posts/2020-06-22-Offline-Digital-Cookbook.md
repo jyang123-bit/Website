@@ -4,7 +4,7 @@ title: Digital Cookbook
 categories:
   - Offline 
 tags:
-  - content
+  - Content
   - Cookbook
   - Offline
 ---
