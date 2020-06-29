@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Online
+title: Online projects
 category: My Category
 
 ---
