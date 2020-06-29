@@ -6,5 +6,7 @@ remote_theme: fongandrew/hydeout
 
 paginate:         5
 
+disqus:
+  shortname: my-disqus-shortname
 sidebar_home_link:  true
 page_excerpts: true
