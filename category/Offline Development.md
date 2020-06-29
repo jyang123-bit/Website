@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Offline Projects
+title: Offline projects
 category: My Category
 
 ---
