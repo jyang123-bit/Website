@@ -2,7 +2,7 @@
 # Use a comment to ensure Jekyll reads the file to be transformed into CSS later
 # only main files contain this front matter, not partials.
 ---
-<style>
+
 .dropbtn {
   background-color: #9AAB89;
   color: white;
@@ -37,5 +37,5 @@
 .dropdown-content a:hover {background-color: #f1f1f1;}
 .dropdown:hover .dropdown-content {display: block;}
 .dropdown:hover .dropbtn {background-color: #9AAB89;}
-</style>
+
 @import "hydeout";
