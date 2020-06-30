@@ -34,7 +34,6 @@ last_modified_at:
   </div>
 </div>
 
-{% endcase %}
-<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.scss">
+
 
 
