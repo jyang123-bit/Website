@@ -8,12 +8,6 @@
     
   {% endif %}
 
-  <a id="subscribe-link"
-     class="icon" title="Subscribe" aria-label="Subscribe"
-     href="{{ site.feed.path | default: 'feed.xml' | relative_url }}">
-    {% include svg/feed.svg %}
-  </a>
-
   {% comment %}
     Check if we have tag or search pages page active before linking to it.
   {% endcomment %}
@@ -28,6 +22,14 @@
   {% endfor %}
 
   {% include custom-icon-links.html %}
+  
+  {% endif %}
+
+  <a id="subscribe-link"
+     class="icon" title="Subscribe" aria-label="Subscribe"
+     href="{{ site.feed.path | default: 'feed.xml' | relative_url }}">
+    {% include svg/feed.svg %}
+  </a>
   
   {% if tags_page %}
     <a id="tags-link"
