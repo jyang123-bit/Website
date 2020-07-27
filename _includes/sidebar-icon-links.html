@@ -27,6 +27,8 @@
     {% endif %}
   {% endfor %}
 
+  {% include custom-icon-links.html %}
+  
   {% if tags_page %}
     <a id="tags-link"
        class="icon{% if page.url == '/tags' %} active{% endif %}"
@@ -45,5 +47,5 @@
     </a>
   {% endif %}
 
-  {% include custom-icon-links.html %}
+  
 </nav>
