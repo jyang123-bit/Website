@@ -5,8 +5,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Jing Yuh 
 email: Jingyuh.applicant@gmail.com
-linkedin: www.linkedin.com/in/jingyuhprofile
-github_username:  https://github.com/jyang123-bit
+linkedin: jingyuhprofile
+github_username:  jyang123-bit
 
 # Jekyll Configurations
 markdown:         kramdown
