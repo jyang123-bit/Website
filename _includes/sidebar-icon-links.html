@@ -23,13 +23,12 @@
 
   {% include custom-icon-links.html %}
   
-  {% endif %}
-
-  <a id="subscribe-link"
+    <a id="subscribe-link"
      class="icon" title="Subscribe" aria-label="Subscribe"
      href="{{ site.feed.path | default: 'feed.xml' | relative_url }}">
     {% include svg/feed.svg %}
   </a>
+  {% endif %}
   
   {% if tags_page %}
     <a id="tags-link"
