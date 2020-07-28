@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html lang="en-us">
 
-  {% include head.html %}
-  
-  
-  
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+
   <body class="{{ page.layout }}{% if page.url == '/' %} home{% endif %}">
 
     {% include sidebar.html %}
@@ -13,7 +14,11 @@
       {{ content }}
     </main>
   
-  {% include copyright.html %}  
-    
+   <div id="footer" class="page__footer">
+      <footer>
+      {% include copyright.html %}  
+      </footer>
+    </div>
+        
   </body>
 </html>
