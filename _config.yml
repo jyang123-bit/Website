@@ -5,7 +5,6 @@
 # in the templates via {{ site.myvariable }}.
 title: Jing Yuh 
 email: Jingyuh.applicant@gmail.com
-linkedin: jingyuhprofile
 github_username:  jyang123-bit
 
 # Jekyll Configurations
