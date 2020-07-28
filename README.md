@@ -3,6 +3,7 @@ This is where I will be practicing social economic interest with information tec
 
 Built with
 ----
+- [x] [GitHub](https://pages.github.com/) static pages
 - [x] [Hydeout](https://fongandrew.github.io/hydeout/) Jekyll theme
 
 To Be adding to
