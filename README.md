@@ -10,6 +10,6 @@ Built with
 To Be adding to
 ----
 - [ ] Language option
-- [ ] other functionality with [W3C](https://www.w3.org/standards/) standards practice
+- [ ] Other functionality with [W3C](https://www.w3.org/standards/) standards practice
 
 ## Welcome to view the site in [here](https://jyang123-bit.github.io/Website/).
