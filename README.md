@@ -6,6 +6,10 @@ Built with
 - [x] [GitHub](https://pages.github.com/) static pages
 - [x] [Hydeout](https://fongandrew.github.io/hydeout/) Jekyll theme
 
+Featured
+----
+- [x] Mailto link added subject line and body content  
+
 To Be adding to
 ----
 - [ ] Language option
