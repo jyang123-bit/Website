@@ -1,5 +1,5 @@
 # Website
-This is where I will be connecting the dots with social economic interests .  
+This is where I will be practicing information technology skills with social economic interests .  
 
 Built with
 ----
