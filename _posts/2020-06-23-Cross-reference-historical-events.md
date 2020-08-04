@@ -3,11 +3,11 @@ layout: post
 title: "Cross reference"
 
 categories:
-  - Online
+  - Projects
 
 tags:
   - Content
-  - Online
+  - Projects
   - Cross reference
   - Historical events
 
