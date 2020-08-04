@@ -1,5 +1,5 @@
 # Website
-This is where I will be practicing social economic interest with information technology skills.  
+This is where I will be practicing social economic interests with information technology skills.  
 
 Built with
 ----
