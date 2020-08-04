@@ -3,12 +3,12 @@ layout: post
 title: Digital Cookbook
 
 categories:
-  - Offline 
+  - Projects 
 
 tags:
   - Content
   - Cookbook
-  - Offline
+  - Projects
 
 last_modified_at:
 ---
