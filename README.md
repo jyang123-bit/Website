@@ -1,5 +1,5 @@
 # Website
-This is where I will be practicing social economic interests with information technology skills.  
+This is where I will be connecting the dots with social economic interests .  
 
 Built with
 ----
@@ -10,7 +10,7 @@ Featured
 ----
 - [x] Mailto link added subject line and body content  
 
-To Be adding to
+To Be adding
 ----
 - [ ] Language option
 - [ ] Other functionality with [W3C](https://www.w3.org/standards/) standards practice
