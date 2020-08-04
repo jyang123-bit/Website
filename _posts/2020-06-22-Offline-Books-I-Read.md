@@ -7,7 +7,7 @@ categories:
 
 tags:
   - Content
-  - Offline
+  - Notes
   - Books
 
 last_modified_at:
