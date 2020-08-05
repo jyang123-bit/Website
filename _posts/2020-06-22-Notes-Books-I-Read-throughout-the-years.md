@@ -10,7 +10,7 @@ tags:
   - Notes
   - Books
 
-last_modified_at: 2020-06-22
+last_modified_at: 
 ---
 
 <p class="message">
