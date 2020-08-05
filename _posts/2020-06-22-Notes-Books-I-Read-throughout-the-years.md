@@ -14,7 +14,7 @@ last_modified_at: 2020-06-22
 ---
 
 ```
-  A list of collective wisdom, picking up from the knowledge of many great authors.
+A list of collective wisdom, picking up from the knowledge of many great authors.
 ```
 
 <div class="dropdown" style="float:right;">
