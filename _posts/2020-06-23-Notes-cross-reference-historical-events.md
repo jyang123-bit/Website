@@ -21,6 +21,7 @@ last_modified_at:
 > The way societies evolve is by going from Dictatorship---Oligarchy--Democracy--Chaos 
 
 <cite>Plato</cite>---The Republic, 375 BC 
+
 ---
 
 To get a better picture of a period of time in history, these are the videos i would recommend:   
