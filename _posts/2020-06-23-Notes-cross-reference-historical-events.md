@@ -11,7 +11,7 @@ tags:
   - Cross reference
   - Historical events
 
-last_modified_at: 2020-08-05
+last_modified_at: 
 ---
 
 <p class="message">
