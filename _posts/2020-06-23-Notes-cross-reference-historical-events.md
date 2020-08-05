@@ -18,15 +18,17 @@ last_modified_at:
   A collective of social economic events & remarkable people in South East Asia and around the world listed in chronological order.
 </p>
 
-<p class="message">
+---
+---
 To get a better picture of a period of time in history, these are the videos i would recommend: 
   
-  - Travelogue footage of <a href="https://www.youtube.com/c/michaelijsbrand/about">Michael Rogge</a> from 1912 until 2011.
+  - Travelogue footage of <a href="https://www.youtube.com/c/michaelijsbrand/about">Michael Rogge</a> from `1912` to `2011`.
   
-  - <a href="http://www.travelfilmarchive.com/home.php">The Travel Film Archive</a> from 1900 to 1970.
+  - <a href="http://www.travelfilmarchive.com/home.php">The Travel Film Archive</a> from `1900` to `1970`.
   
-  - Newsreel and documentaries archive by <a href="https://www.youtube.com/c/britishpathe/about">British Pathé</a> from 1910 to 1984. 
-  </p>
+  - Newsreel and documentaries archive by <a href="https://www.youtube.com/c/britishpathe/about">British Pathé</a> from `1910` to `1984`. 
+---  
+---
 
 `802- 1431`<kbd>(629 years)</kbd> Angkor Empire(Khmer)
 
