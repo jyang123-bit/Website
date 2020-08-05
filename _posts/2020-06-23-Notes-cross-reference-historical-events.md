@@ -231,10 +231,11 @@ USA dominated 20th century
 
 China dominate 21st Century
 
-`2020` UK brexit
-
-`2020` Malaysia political crisis
-
-`2020` China-India borders military standoff
-
-`2020` China-Canada tensions, China- Australia tensions
+`2020` 
+- UK brexit
+- Malaysia political crisis
+- China-Hong Kong tensions (HK security law)
+- China-USA tensions (trade war) 
+- China-India tensions (borders military standoff)
+- China-Canada tensions (Huawei case)
+- China- Australia tensions (covid19, trade sanctions)
