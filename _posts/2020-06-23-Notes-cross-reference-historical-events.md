@@ -3,11 +3,11 @@ layout: post
 title: "Cross reference Historical events"
 
 categories:
-  - Projects
+  - Notes
 
 tags:
   - Content
-  - Projects
+  - Notes
   - Cross reference
   - Historical events
 
@@ -50,7 +50,7 @@ France dominated 18th century
 Great Britain dominated 19th century
 - `1948` Myanmar
 
-`1903- 1990`<kbd>(87 years)</kbd> Tunku Adbul Rahman
+`1903- 1990`<kbd>(87 years)</kbd> Tunku Abdul Rahman
 
 `1913` Malay reservations lands Law
 
