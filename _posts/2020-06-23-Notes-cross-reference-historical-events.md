@@ -19,7 +19,7 @@ last_modified_at:
 </p>
 
 <p class="message">
-  To get a better picture of a period of time in history, these are the videos i would recommend: 
+To get a better picture of a period of time in history, these are the videos i would recommend: 
   
   - Travelogue footage of <a href="https://www.youtube.com/c/michaelijsbrand/about">Michael Rogge</a> from 1912 until 2011.
   
