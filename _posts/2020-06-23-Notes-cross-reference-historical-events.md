@@ -53,7 +53,7 @@ Great Britain dominated 19th century
 - Sri Lanka
 - Malaya
 
-```yml
+<p class="message">
 `1900- 1920` Chinese and Indian immigrants coming to Malaya for labor works in plantation and tin mining
 
 `1903- 1990`<kbd>(87 years)</kbd> Tunku Abdul Rahman
@@ -137,7 +137,7 @@ Great Britain dominated 19th century
 `1957` Malaya independence (from British)
 
 `1962- 1990`<kbd>(27 years)</kbd> Nelson Mandela political imprison
-```
+</p>
 
 USA dominated 20th century
 `2000` Dotcom crash
