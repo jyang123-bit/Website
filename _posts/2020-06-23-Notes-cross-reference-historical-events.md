@@ -19,6 +19,7 @@ last_modified_at:
 </p>
 
 > The way societies evolve is by going from Dictatorship---Oligarchy--Democracy--Chaos 
+
 <cite>Plato</cite>---The Republic, 375 BC 
 ---
 
