@@ -53,7 +53,7 @@ Great Britain dominated 19th century
 - Sri Lanka
 - Malaya
 
-```markdown
+```yml
 `1900- 1920` Chinese and Indian immigrants coming to Malaya for labor works in plantation and tin mining
 
 `1903- 1990`<kbd>(87 years)</kbd> Tunku Abdul Rahman
