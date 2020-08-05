@@ -13,9 +13,9 @@ tags:
 last_modified_at: 2020-06-22
 ---
 
-<p class="message">
+```
   A list of collective wisdom, picking up from the knowledge of many great authors.
-          </p>
+```
 
 <div class="dropdown" style="float:right;">
   <button class="dropbtn">In years</button>
