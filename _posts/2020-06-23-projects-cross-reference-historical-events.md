@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cross reference"
+title: "Cross reference Historical events"
 
 categories:
   - Projects
@@ -11,9 +11,11 @@ tags:
   - Cross reference
   - Historical events
 
-last_modified_at:
+last_modified_at: 2020-08-05
 ---
-## Cross reference historical events
+----
+A collective of social economic events in South east asia and around the world 
+----
 
 `802- 1431`<kbd>(629 years)</kbd> Angkor Empire(Khmer)
 
@@ -31,7 +33,8 @@ last_modified_at:
 
 `1641` Dutch in Malaysia
 
-`1817- 2020` <kbd>203 years</kbd> Cholera pandemic 
+`1817- 2020` <kbd>(203 years)</kbd> Cholera pandemic 
 
-`
+France dominated 18th century
+- `1859- 1945` <kbd>(86 years)</kbd>
 
