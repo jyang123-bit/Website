@@ -56,7 +56,6 @@ Great Britain dominated 19th century
 |`1900- 1920` Chinese and Indian immigrants coming to Malaya for labor works in plantation and tin mining|
 |                                                                                                        |
 |`1903- 1990`<kbd>(87 years)</kbd> Tunku Abdul Rahman                                                    |
-|                                                                                                        |
 |`1913` Malay reservations lands Law                                                                     | 
 
 `1914` Panama international canals
