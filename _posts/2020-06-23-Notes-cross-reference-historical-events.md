@@ -199,6 +199,8 @@ USA dominated 20th century
 
 `2001` Malaysia announced as Islam country by Tun Mahathir
 
+`2001- 2020`<kbd>(18 years)</kbd> 911 attacks, US invaded Taliban, an Afghan peace deal is under way.  
+
 `2002- 2004` SARS outbreak
 
 `2003` Japan economy started to rebound
@@ -211,7 +213,7 @@ USA dominated 20th century
 
 `2009- 2010` H1N1/09 swine flu pandemic
 
-`2015` GST
+`2015- 2018` GST
 
 `2016` Cambridge analytica data scandal 
 
@@ -221,11 +223,18 @@ USA dominated 20th century
 
 `2019` Saudi Arabia (open for tourism)
 
+`2019-2020` Australia bushfire
+
+`2019- 2020` Hong Kong protests
+
 `2019` Covid19 pandemic
 
 China dominate 21st Century
 
+`2020` UK brexit
+
 `2020` Malaysia political crisis
 
+`2020` China-India borders military standoff
 
-
+`2020` China-Canada tensions, China- Australia tensions
