@@ -15,7 +15,7 @@ last_modified_at: 2020-08-05
 ---
 
 <p class="message">
-  A collective of social economic events in South east asia and around the world 
+  A collective of social economic events & remarkable people in South East Asia and around the world 
 </p>
 
 `802- 1431`<kbd>(629 years)</kbd> Angkor Empire(Khmer)
@@ -49,6 +49,9 @@ France dominated 18th century
 
 Great Britain dominated 19th century
 - `1948` Myanmar
+- India
+- Sri Lanka
+- Malaya
 
 `1903- 1990`<kbd>(87 years)</kbd> Tunku Abdul Rahman
 
@@ -64,7 +67,7 @@ Great Britain dominated 19th century
 
 `1900- 1920` Chinese and Indian immigrants coming to Malaya for labor works in plantation and tin mining
 
-`1922- 1991`<kbd>(69 years)</kbd> Soviet Union
+`1922- 1991`<kbd>(69 years)</kbd> Soviet Union/USSR (divided into 15 countries)
 
 `1923- 2015`<kbd>(92 years)</kbd> Lee Kuan Yew
 
@@ -90,3 +93,46 @@ Great Britain dominated 19th century
 
 `1939- 1945`<kbd>(6 years)</kbd> World War II
 
+`1945` Atomic bombings of Hiroshima & Nagasaki
+
+`1941- 1942` Japanese occupation of Malaya (left in 1945)
+
+`1945` Vietnam independence (from France)
+
+`1945- 2000`<kbd>(55 years)</kbd> Kuomintang(KMT) rule in Taiwan until Chen Shui Bian
+
+`1945` Aung San Suu Kyi
+
+`1945` Indonesia independence (from Dutch) 
+
+`1946` Grandma
+
+`1947- 1991`<kbd>(44 years)</kbd> Cold War
+
+`1947` India independence (from British)
+
+`1948` Sri Lanka independence (from British)
+
+`1949` Myanmar independence (from British)
+
+`1949` Laos independence (from France)
+
+`1949` People's republic of China (communist party)
+
+`1949` Gennaro Contaldo 
+
+`1950- 1953`<kbd>(3 years)</kbd> Korean War
+
+`1950s- 1960s` Polio
+
+`1953` Cambodia independence (from France) 
+
+`1955` Bill Gates
+
+`1955- 1975`<kbd>(20 years)</kbd> Vietnam War
+
+`1956- 1958`<kbd>(2 years)</kbd> H2N2 Asian flu pandemic
+
+`1957` Malaya independence (from British)
+
+`1962- 1990`<kbd>(27 years)</kbd> Nelson Mandela political imprison
