@@ -52,6 +52,8 @@ Great Britain dominated 19th century
 - India
 - Sri Lanka
 - Malaya
+- Brunei
+
 ---
 `1900- 1920` Chinese and Indian immigrants coming to Malaya for labor works in plantation and tin mining
                                                                                                         
@@ -105,6 +107,8 @@ Great Britain dominated 19th century
 
 `1945` Indonesia independence (from Dutch) 
 
+`1946` North & South korea divided 
+
 `1946` Grandma
 
 `1947- 1991`<kbd>(44 years)</kbd> Cold War
@@ -137,6 +141,91 @@ Great Britain dominated 19th century
 
 `1962- 1990`<kbd>(27 years)</kbd> Nelson Mandela political imprison                
 
+`1963` Michael Jordan
+
+`1963` Malaysia Day
+
+`1964` Parents
+
+`1964` Michelle Obama
+
+`1965` Singapore independence (from Malaysia)
+
+`1968- 1969` H3N2 Hong Kong flu pandemic
+
+`1969` Malaysia race riot
+
+`1970- 2018`<kbd>(48 years)</kbd> Barisan National governed Malaysia
+
+`1975- 1979`<kbd>(4 years)</kbd> Cambodia genocide(Khmer rouge)
+
+`1976` Saigon renamed to Ho Chi Minh City
+
+`1978` China open for tourism (maoist china ended)
+
+`1978- 1980` Oil shock
+
+`1979` China-Vietnam war
+
+`1981- 1991` Measles epidemic
+
+`1984` Brunei independence (from British)
+
+`1986` Chernobyl disaster
+
+`1987` Stock market collapsed 40% to 80%
+
+`1980- 1990` Japan bubble bursts
+
+`1989- 2010`<kbd>(15 years)</kbd> Aung San Suu Kyi political imprison
+
+`1990- 2020`<kbd>(2nd wave)</kbd> Bubble tea bandwagon effect
+
+`1991` Destruction of Berlin wall
+
+`1992` Myanmar (open for tourism)
+
+`1992` Cambodia government open door policy
+
+`1993` Czech Republic & Slovakia split
+
+`1998` Stock bubble
+
+`1999` Cambodia (open for tourism)
+
 ---
 USA dominated 20th century
-`2000` Dotcom crash
+- `2000` Dotcom crash
+
+`2001` Malaysia announced as Islam country by Tun Mahathir
+
+`2002- 2004` SARS outbreak
+
+`2003` Japan economy started to rebound
+
+`2004` Sumatra earthquake & tsunami
+
+`2005- 2012` HIV/AIDS pandemic
+
+`2007- 2009` the Great Recession due to financial crisis (collateral debt + credit default swaps)
+
+`2009- 2010` H1N1/09 swine flu pandemic
+
+`2015` GST
+
+`2016` Cambridge analytica data scandal 
+
+`2018` Malaysia general election won by opposition 1st in history
+
+`2018- 2020` North & South korea diplomatic relationships improved until 2020 cut off communication
+
+`2019` Saudi Arabia (open for tourism)
+
+`2019` Covid19 pandemic
+
+China dominate 21st Century
+
+`2020` Malaysia political crisis
+
+
+
