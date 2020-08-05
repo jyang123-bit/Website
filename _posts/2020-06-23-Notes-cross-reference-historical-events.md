@@ -136,6 +136,7 @@ Great Britain dominated 19th century
 `1957` Malaya independence (from British)
 
 `1962- 1990`<kbd>(27 years)</kbd> Nelson Mandela political imprison                
+
 ---
 USA dominated 20th century
 `2000` Dotcom crash
