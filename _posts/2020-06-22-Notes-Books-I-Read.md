@@ -10,11 +10,12 @@ tags:
   - Notes
   - Books
 
-last_modified_at:
+last_modified_at: 2020-06-22
 ---
----
-A collective knowledge picking up from the wisdom of many great authors.
----
+
+<p class="message">
+  A list of collective knowledge, picking up from the wisdom of many great authors.
+          </p>
 
 <div class="dropdown" style="float:right;">
   <button class="dropbtn">In years</button>
