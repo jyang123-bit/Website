@@ -38,11 +38,11 @@ $box-shadow-size: 1px !default;
 $box-shadow-opacity: 0.16 !default;
 $default-box-shadow: $box-shadow-size $box-shadow-size $box-shadow-size rgba(0, 0, 0, $box-shadow-opacity);
 
-$code-font-family: Menlo, Monaco, 'Courier New', monospace !default;
+$code-font-family: 'Gill Sans','Gill Sans MT',Calibri,sans-serif !default;
 $code-color: #bf616a !default;
 
 // Hyde theming
-$sidebar-bg-color: #f2efd3 !default;
+$sidebar-bg-color: #8A9574 !default;
 $sidebar-fg-color: #fff !default;
 $sidebar-sticky: true !default;
 $layout-reverse: false !default;
