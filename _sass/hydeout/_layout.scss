@@ -34,14 +34,7 @@ body {
 
 #sidebar {
   flex: 0 0 auto;
-  
-  border-left: 1px solid #12335e;
-  display: inline;
-  float: right;
-  font-size: 0.875em;
-  line-height: 1.5em;
-  padding-left: 20px;
-  width: 280px;
+  padding: $section-spacing;
   
   .site-title {
     font-family: 'Abril Fatface', serif;
