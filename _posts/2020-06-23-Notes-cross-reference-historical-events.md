@@ -18,9 +18,13 @@ last_modified_at:
   A collective of social economic events & remarkable people in South East Asia and around the world listed in chronological order.
 </p>
 
-> The way societies evolve is by going from Dictatorship---Oligarchy--Democracy--Chaos 
+> The way societies evolve is by going from dictatorship to oligarchy to democracy to chaos and back to dictatorship. 
 
 <cite>Plato</cite>---The Republic, 375 BC 
+
+> Chaotic systems come in two shapes. The weather, for example, is a level one chaotic system. History, markets and politics are level two chaotic system. 
+
+<cite>Yuval Noah Hariri</cite>---Sapiens, 2014
 
 ---
 
