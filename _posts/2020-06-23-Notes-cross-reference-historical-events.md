@@ -19,18 +19,13 @@ last_modified_at:
 </p>
 
 ---
-<div class="message">
+
 To get a better picture of a period of time in history, these are the videos i would recommend: 
-
-
   - Travelogue footage of <a href="https://www.youtube.com/c/michaelijsbrand/about">Michael Rogge</a> from `1912` to `2011`.
-
-
   - [The Travel Film Archive](http://www.travelfilmarchive.com/home.php) from `1900` to `1970`.
-
-
   - Newsreel and documentaries archive by <a href="https://www.youtube.com/c/britishpathe/about">British Pathé</a> from `1910` to `1984`. 
-</div> 
+  
+
 ---
 
 `802- 1431`<kbd>(629 years)</kbd> Angkor Empire(Khmer)
