@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Books I Read"
+title: "Books I Read throughout the years"
 
 categories:
   - Notes
@@ -12,10 +12,9 @@ tags:
 
 last_modified_at:
 ---
-
-<h2>Books I read</h2>
-<p>throughout the years</p>
-
+---
+A collective knowledge picking up from the wisdom of many great authors.
+---
 
 <div class="dropdown" style="float:right;">
   <button class="dropbtn">In years</button>
