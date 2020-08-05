@@ -15,8 +15,15 @@ last_modified_at:
 ---
 
 <p class="message">
-  A collective of social economic events & remarkable people in South East Asia and around the world 
+  A collective of social economic events & remarkable people in South East Asia and around the world listed in chronological order.
 </p>
+
+<p class="message">
+  To get a better picture of a period of time in history, these are the videos i would recommend: 
+  - Travelogue footage of [Michael Rogge](https://www.youtube.com/c/michaelijsbrand/about) from 1912 until 2011.
+  - [The Travel Film Archive](http://www.travelfilmarchive.com/home.php) from 1900 to 1970.
+  - Newsreel and documentaries archive by [British Pathé](https://www.youtube.com/c/britishpathe/about) from 1910 to 1984. 
+  </p>
 
 `802- 1431`<kbd>(629 years)</kbd> Angkor Empire(Khmer)
 
@@ -55,7 +62,7 @@ Great Britain dominated 19th century
 - Brunei
 
 ---
-`1900- 1920` Chinese and Indian immigrants coming to Malaya for labor works in plantation and tin mining
+`1900- 1920` Chinese and Indian immigrants coming to Malaya for labor works in plantation and mining
                                                                                                         
 `1903- 1990`<kbd>(87 years)</kbd> Tunku Abdul Rahman                                                    
 
