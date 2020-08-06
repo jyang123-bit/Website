@@ -44,7 +44,7 @@ last_modified_at:
       <div class="number">{{ entry.books | size }} books</div>
     </div>
     <div class="books">
-      <ul class="Books I've Read throughout the years {{ entry.year }}">
+      <ul class="books{{ entry.year }}">
         {% for book in entry.books %}
         <li>
           <a href="{{ book.link }}" alt="_blank" rel="nofollow noopener">{{
