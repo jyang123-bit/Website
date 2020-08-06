@@ -1,8 +1,14 @@
-- title: Karabana
-  artist: Harissa
-  release_date: 2018-09-12
-  tags: [ jazz, instrumental ]
-  img: https://i.scdn.co/image/ec748d8a8fea1b8f644c753185cc35c4ca9f45da
-  url: https://open.spotify.com/album/0EX4lJA3CFaKIvjFJyYIpe
-  notes: |
-    Instrumental jazz/klezmer/groove from Paris, France.
+lastupdate: September 3, 2019
+list:
+  - year: "2019"
+    books:
+      - title: The Summer Book
+        author: Tove Jansson
+        link: https://amzn.to/2ZMtUuC
+        star: yes
+        release_date: 
+        tags:
+        img:
+        notes:
+
+
