@@ -37,14 +37,14 @@ last_modified_at:
 
 <div class="container">
   <div class="last-update">Last updated {{ site.data.books.lastupdate }}</div>
-  {% for entry in site.data.books %}
+  {% for entry in site.books.list %}
   <div class="year-container">
     <div class="year">
       <h4>{{ entry.year }}</h4>
       <div class="number">{{ entry.books | size }} books</div>
     </div>
     <div class="books">
-      <ul class="books {{ entry.year }}">
+      <ul class="Books I've Read throughout the years {{ entry.year }}">
         {% for book in entry.books %}
         <li>
           <a href="{{ book.link }}" alt="_blank" rel="nofollow noopener">{{
