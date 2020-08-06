@@ -35,30 +35,5 @@ last_modified_at:
   </div>
 </div>
 
-  <div class="posts">
   
-    {% assign books = site.books | sort: "date" | reverse %}
-
-    {% for book in books %}
-  	<div class="post-teaser book-teaser">
-  		<div>
-			<a href="{{ book.url | prepend: site.baseurl }}">
-  			    <img class="book-cover book-cover-teaser" src="/wp-content/covers/{{ book.cover }}">
-                    </a>
-  		</div>
-		<div class="book_info">
-		  	<div class="book_meta">
-			  	<h3><em><a href="{{ book.url | prepend: site.baseurl }}">{{ book.title }}</a></em></h3>
-			  	<p>Author: {{ book.author }}</p>
-				<p>Read: {{ book.date | date_to_string }}</p> 
-			  	<a class="button" href="{{ book.url | prepend: site.baseurl }}">Read full notes</a>
-		  	</div>
-	  	</div>
-
-  	</div>
-  {% endfor %}
-
-
- </div>
-
 
