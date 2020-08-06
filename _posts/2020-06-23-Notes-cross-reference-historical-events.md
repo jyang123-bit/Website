@@ -175,6 +175,8 @@ Great Britain dominated 19th century
 
 `1970- 2018`<kbd>(48 years)</kbd> Barisan National governed Malaysia
 
+`1970- 1990` Malaysia New Economy Policy 
+
 `1975- 1979`<kbd>(4 years)</kbd> Cambodia genocide(Khmer rouge)
 
 `1976` Saigon renamed to Ho Chi Minh City
