@@ -12,7 +12,6 @@ tags:
 
 last_modified_at: 
 ---
-<h2>Books I've Read</h2>
 
 <p class="message">
   A list of collective wisdom, picking up from the knowledge of many great authors.
@@ -37,7 +36,7 @@ last_modified_at:
 
 <div class="container">
   <div class="last-update">Last updated {{ site.data.books.lastupdate }}</div>
-  {% for entry in site.books.list %}
+  {% for entry in site.data.books.list %}
   <div class="year-container">
     <div class="year">
       <h4>{{ entry.year }}</h4>
