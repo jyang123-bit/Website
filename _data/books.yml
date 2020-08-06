@@ -1,11 +1,97 @@
-lastupdate: September 3, 2019
+lastupdate: August 6, 2020
 list:
-  - year: "2019"
+  - year: "2020"
     books:
-      - title: The Summer Book
-        author: Tove Jansson
+      - title: Sapiens: A Brief History of Humankind
+        author: Yuval Noah Harari
+        link: https://amzn.to/2ZMtUuC
+        star: yes
+  
+      - title: Manual of the warrior of Light
+        author: Paulo Coelho
+        link: https://amzn.to/2ZMtUuC
+        star: yes
+      
+      - title: Investment Biker
+        author: Jim Rogers
         link: https://amzn.to/2ZMtUuC
         star: yes
         
+       - title: The way of the Bow
+        author: Paulo Coelho
+        link: https://amzn.to/2ZMtUuC
+        star: yes
+        
+        - title: Getting Real
+        author: Basecamp
+        link: https://amzn.to/2ZMtUuC
+        star: yes
+        
+        - title: Data Science
+        author: Mike Loukides
+        link: https://amzn.to/2ZMtUuC
+        star: yes
+        
+        - title: Street Smart
+        author: Jim Rogers
+        link: https://amzn.to/2ZMtUuC
+        star: yes
+        
+        - title: Dear Girls
+        author: Ali Wong
+        link: https://amzn.to/2ZMtUuC
+        star: yes
+      
+  - year: "2019"
+    books:
+      - title: Becoming
+        author: Michelle Obama
+        link: https://amzn.to/2ZMtUuC
+        star: yes
+        
+         - title: Robert Kuok: A Memoir
+        author: Robert Kuok & Andrew Tanzer
+        link: https://amzn.to/2ZMtUuC
+        star: yes
+        
+         - title: From Third World to First:The Singapore Story, 1965-2000 (Vol.2)
+        author: Lee Kuan Yew
+        link: https://amzn.to/2ZMtUuC
+        star: yes
+        
+         - title: The Singapore Story: Memoir of Lee Kuan Yew (Vol.1)
+        author: Lee Kuan Yew
+        link: https://amzn.to/2ZMtUuC
+        star: yes
+        
+         - title: A Gift to My Children: A Father's Lessons for Life and Investing
+        author: Jim Rogers
+        link: https://amzn.to/2ZMtUuC
+        star: yes
+        
+         - title: The Moment of Lift: How Empowering Women Changes the World
+        author: Melinda Gates
+        link: https://amzn.to/2ZMtUuC
+        star: yes
+        
+         - title: If This is a man
+        author: Primo Levi
+        link: https://amzn.to/2ZMtUuC
+        star: yes
+        
+         - title: Showing Up for Life: Thoughts on the Gifts of a Lifetime
+        author: Bill Gates Senior
+        link: https://amzn.to/2ZMtUuC
+        star: yes
+        
+         - title: The Scientist in the cribs
+        author: Alison Gopnik
+        link: https://amzn.to/2ZMtUuC
+        star: yes
+        
+         - title: The Little Prince
+        author: Antoine de Saint-Exupéry
+        link: https://amzn.to/2ZMtUuC
+        star: yes
 
 
