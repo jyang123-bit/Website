@@ -34,7 +34,7 @@ last_modified_at:
   </div>
 </div>
 
-<div class="booklist">
+<div class="container">
   <div class="last-update">Last updated {{ site.data.books.lastupdate }}</div>
   {% for entry in site.data.books.list %}
   <div class="year-container">
