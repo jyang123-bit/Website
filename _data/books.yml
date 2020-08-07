@@ -94,4 +94,98 @@ list:
         link: https://amzn.to/2ZMtUuC
         star: yes
 
-
+ - year: "2018"
+    books:
+      - title: Kindle
+        author: 
+        link: https://amzn.to/2ZMtUuC
+        star: yes
+        
+      - title: kindle
+        author: 
+        link: https://amzn.to/2ZMtUuC
+        star: yes
+        
+      - title: kindle
+        author: 
+        link: https://amzn.to/2ZMtUuC
+        star: yes
+        
+      - title: kindle
+        author: 
+        link: https://amzn.to/2ZMtUuC
+        star: yes
+        
+      - title: kindle
+        author: 
+        link: https://amzn.to/2ZMtUuC
+        star: yes
+        
+      - title: The Guernsey Literary and Potato Peel Pie Society
+        author: Annie Barrows and Mary Ann Shaffer
+        link: https://amzn.to/2ZMtUuC
+        star: yes
+        
+ - year: "2017"
+    books:
+      - title: Seriously I'm kidding..
+        author: Ellen Degeneres
+        link: https://amzn.to/2ZMtUuC
+        star: yes
+        
+      - title: Big Magic
+        author: Elizabeth Gilbert
+        link: https://amzn.to/2ZMtUuC
+        star: yes
+        
+      - title: The Catcher in the Rye
+        author: J. D. Salinger
+        link: https://amzn.to/2ZMtUuC
+        star: yes
+        
+      - title: Letters for Emily
+        author: Camron Wright
+        link: https://amzn.to/2ZMtUuC
+        star: yes
+       
+      - title: Act Like a Lady, Think Like a Man
+        author: Steve Harvey
+        link: https://amzn.to/2ZMtUuC
+        star: yes
+        
+      - title: His Holiness The Dalai Lama: A Message of Spiritual Wisdom
+        author: Comcast NBC Universal
+        link: https://amzn.to/2ZMtUuC
+        star: yes
+        
+      - title: The Alchemist
+        author: Paolo Coelho
+        link: https://amzn.to/2ZMtUuC
+        star: yes 
+       
+      - title: Anne Frank
+        author: 
+        link: https://amzn.to/2ZMtUuC
+        star: yes
+        
+      - title: Hokkaido Highway Blues
+        author: Will Ferguson
+        link: https://amzn.to/2ZMtUuC
+        star: yes
+   
+- year: "2016"
+    books:
+      - title: Lean in
+        author: Nell Scovell and Sheryl Sandberg
+        link: https://amzn.to/2ZMtUuC
+        star: yes
+  
+      - title: Start with Why
+        author: Simon Sinek
+        link: https://amzn.to/2ZMtUuC
+        star: yes
+        
+      - title: Thinking, fast and slow
+        author: Daniel Kahneman
+        link: https://amzn.to/2ZMtUuC
+        star: yes
