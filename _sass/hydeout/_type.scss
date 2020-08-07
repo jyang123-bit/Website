@@ -87,12 +87,11 @@ blockquote {
   color: #7a7a7a;
   margin: 0.8rem 0;
   padding: 0.5rem 1rem;
-  position: center;}
-
-.cite{position:left;}
+  position: center;
 
   p:last-child {
     margin-bottom: 0;
+    position:right;
   }
 
   @media (min-width: 30em) {
