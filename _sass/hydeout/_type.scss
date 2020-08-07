@@ -88,10 +88,11 @@ blockquote {
   margin: 0.8rem 0;
   padding: 0.5rem 1rem;
   position: center;
+  background:#EDEDED;
 
   p:last-child {
     margin-bottom: 0;
-    position:right;
+    text-align: right;
   }
 
   @media (min-width: 30em) {
