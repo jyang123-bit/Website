@@ -97,7 +97,7 @@ list:
   - year: "2018"
     books:
       - title: Kindle
-        author:tba 
+        author: tba 
         link: https://amzn.to/2ZMtUuC
         star: yes
         
