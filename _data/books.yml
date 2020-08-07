@@ -94,30 +94,30 @@ list:
         link: https://amzn.to/2ZMtUuC
         star: yes
 
- - year: "2018"
+  - year: "2018"
     books:
       - title: Kindle
-        author: 
+        author:tba 
         link: https://amzn.to/2ZMtUuC
         star: yes
         
       - title: kindle
-        author: 
+        author: tba
         link: https://amzn.to/2ZMtUuC
         star: yes
         
       - title: kindle
-        author: 
+        author: tba
         link: https://amzn.to/2ZMtUuC
         star: yes
         
       - title: kindle
-        author: 
+        author: tba
         link: https://amzn.to/2ZMtUuC
         star: yes
         
       - title: kindle
-        author: 
+        author: tba
         link: https://amzn.to/2ZMtUuC
         star: yes
         
@@ -126,7 +126,7 @@ list:
         link: https://amzn.to/2ZMtUuC
         star: yes
         
- - year: "2017"
+  - year: "2017"
     books:
       - title: Seriously I'm kidding..
         author: Ellen Degeneres
@@ -164,7 +164,7 @@ list:
         star: yes 
        
       - title: Anne Frank
-        author: 
+        author: tba
         link: https://amzn.to/2ZMtUuC
         star: yes
         
@@ -173,7 +173,7 @@ list:
         link: https://amzn.to/2ZMtUuC
         star: yes
    
-- year: "2016"
+  - year: "2016"
     books:
       - title: Lean in
         author: Nell Scovell and Sheryl Sandberg
