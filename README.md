@@ -11,9 +11,10 @@ Featured
 - [x] Mailto link added subject line and body content
 - [x] Book List 
 
-To Be adding
+To Be update
 ----
 - [ ] Language option
+- [ ] Favicon
 - [ ] D3.js in Jekyll
 - [ ] Book List with images
 - [ ] Other functionality with [W3C](https://www.w3.org/standards/) standards practice
