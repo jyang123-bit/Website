@@ -13,7 +13,7 @@ body {
 }
 
 html {
-  font-family: 'Gill Sans','Gill Sans MT',Calibri,sans-serif;;
+  font-family: $root-font-family;
   font-size: $root-font-size;
   line-height: $root-line-height;
 
