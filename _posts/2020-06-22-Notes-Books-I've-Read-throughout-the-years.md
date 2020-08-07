@@ -34,7 +34,7 @@ last_modified_at:
   </div>
 </div>
 
-<link rel="stylesheet" href="books.scss" />
+<link rel="stylesheet" href="assets/css/main.scss" />
 
 <div class="container">
   <div class="last-update">Last updated {{ site.data.books.lastupdate }}</div>
