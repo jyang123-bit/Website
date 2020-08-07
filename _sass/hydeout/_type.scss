@@ -83,10 +83,13 @@ abbr {
 
 blockquote {
   border-left: 0.25rem solid; 
-  border-color: #f2efd3;
+  border-color: #8A9574;
   color: #7a7a7a;
   margin: 0.8rem 0;
   padding: 0.5rem 1rem;
+  position: center;}
+
+.cite{position:left;}
 
   p:last-child {
     margin-bottom: 0;
