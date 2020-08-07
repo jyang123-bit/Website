@@ -34,9 +34,7 @@ last_modified_at:
   </div>
 </div>
 
-<link rel="stylesheet" href="assets/css/main.scss" />
-
-<div class="container" style="float:left;">
+<div class="booklist">
   <div class="last-update">Last updated {{ site.data.books.lastupdate }}</div>
   {% for entry in site.data.books.list %}
   <div class="year-container">
