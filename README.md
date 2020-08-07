@@ -8,11 +8,14 @@ Built with
 
 Featured
 ----
-- [x] Mailto link added subject line and body content  
+- [x] Mailto link added subject line and body content
+- [x] Book List 
 
 To Be adding
 ----
 - [ ] Language option
+- [ ] D3.js in Jekyll
+- [ ] Book List with images
 - [ ] Other functionality with [W3C](https://www.w3.org/standards/) standards practice
 
 ## Welcome to view the site in [here](https://jyang123-bit.github.io/Website/).
