@@ -8,6 +8,8 @@
   color: #717171;
   margin-bottom: 1rem;
   padding: 1rem;
+  overflow: hidden;
+  position: relative;
 }
 
 .message:after {
@@ -17,7 +19,7 @@
   right: 10px;
   bottom: 10px;
   border: 2px solid;
-  color: #FAA21B;
+  color: #EED971FF;
   border-radius: 10px;
   content: '';
   display: block;
