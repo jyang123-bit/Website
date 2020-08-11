@@ -12,15 +12,16 @@
   position: relative;
 }
 
-.message:after {
-  position: absolute;
-  top: 10px;
-  left: 10px;
-  right: 10px;
-  bottom: 10px;
-  border: 2px solid;
-  color: #EED971FF; //Ronchi yellow: #F0D64E / #EED971FF / cactus green: #5C755E
-  border-radius: 10px;
-  content: '';
-  display: block;
-}
+//to add an inline border on the message 
+//.message:after {
+//  position: absolute;
+//  top: 10px;
+//  left: 10px;
+//  right: 10px;
+//  bottom: 10px;
+//  border: 2px solid;
+//  color: #EED971FF; //Ronchi yellow: #F0D64E / #EED971FF / cactus green: #5C755E
+//  border-radius: 10px;
+//  content: '';
+//  display: block;
+//}
