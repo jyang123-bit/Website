@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Smokes & Mirror"
+title: "Smokes & Mirrors"
 
 categories:
   - Notes
