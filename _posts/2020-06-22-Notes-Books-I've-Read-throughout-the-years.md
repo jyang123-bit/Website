@@ -14,7 +14,7 @@ last_modified_at:
 ---
 
 <p class="message">
-  A list of collective wisdom, picking up from the knowledge of many great authors.
+  <span class="padded-dropcap">A</span> list of collective wisdom, picking up from the knowledge of many great authors.
 </p>
 
 <div class="dropdown" style="float:right;">
