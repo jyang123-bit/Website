@@ -87,7 +87,7 @@ blockquote {
   color: #7a7a7a;
   margin: 0.8rem 0;
   padding: 0.5rem 1rem;
-  position: center;
+  text-align: center;
 
   p:last-child {
     margin-bottom: 0;
@@ -95,8 +95,11 @@ blockquote {
   }
   
   blockquote cite {
-    position: right;
-    color: #8A9574; 
+    color: #8A9574;
+    position: absolute;
+     right: 0;
+     bottom: -25px;
+     text-align: right;
   }
 
   @media (min-width: 30em) {
