@@ -12,6 +12,18 @@
   position: relative;
 }
 
+.padded-dropcap {
+  padding-left: 5px;
+  padding-right: 10px;
+  float: left;
+  position: relative;
+  top: -0.25em;
+  margin-bottom: -0.5em;
+  margin-left: -6px;
+  margin-right: 2px;
+  font-size: 100px;
+}
+
 //to add an inline border on the message 
 //.message:after {
 //  position: absolute;
