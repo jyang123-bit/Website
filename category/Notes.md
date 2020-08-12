@@ -4,4 +4,6 @@ title: Notes
 
 
 ---
-<h4>Over the years, I like to jot down ideas or inspirations to organize my thoughts. I have started to realise there are not enough notebooks and storage space   
+<p class="message">
+  <span class="padded-dropcap">I</span>like to think, read and jot down ideas or inspirations. I have came to realise that to catch up with an idea like fish, i have to dive into the sea of my previous messy notes. The goal of this section is that  
+</p> 
