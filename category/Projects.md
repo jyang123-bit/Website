@@ -1,6 +1,7 @@
 ---
-layout: index
+layout: layout
 title: Projects
+category: My category
 
 ---
 ###Mapping 
