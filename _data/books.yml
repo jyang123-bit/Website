@@ -10,17 +10,17 @@ list:
       - title: Manual of the warrior of Light
         author: Paulo Coelho
         link: https://amzn.to/2ZMtUuC
-        star: yes
+        star: 
       
       - title: Investment Biker
         author: Jim Rogers
         link: https://amzn.to/2ZMtUuC
-        star: yes
+        star: 
         
       - title: The way of the Bow
         author: Paulo Coelho
         link: https://amzn.to/2ZMtUuC
-        star: yes
+        star: 
         
       - title: Getting Real
         author: Basecamp
@@ -30,101 +30,96 @@ list:
       - title: Data Science
         author: Mike Loukides
         link: https://amzn.to/2ZMtUuC
-        star: yes
+        star: 
         
       - title: Street Smart
         author: Jim Rogers
         link: https://amzn.to/2ZMtUuC
-        star: yes
+        star: 
         
       - title: Dear Girls
         author: Ali Wong
         link: https://amzn.to/2ZMtUuC
-        star: yes
+        star: 
       
   - year: "2019"
     books:
       - title: Becoming
         author: Michelle Obama
         link: https://amzn.to/2ZMtUuC
-        star: yes
+        star: 
         
       - title: "Robert Kuok: A Memoir"
         author: Robert Kuok & Andrew Tanzer
         link: https://amzn.to/2ZMtUuC
-        star: yes
+        star: 
         
       - title: "From Third World to First:The Singapore Story, 1965-2000 (Vol.2)"
         author: Lee Kuan Yew
         link: https://amzn.to/2ZMtUuC
-        star: yes
+        star: 
         
       - title: "The Singapore Story: Memoir of Lee Kuan Yew (Vol.1)"
         author: Lee Kuan Yew
         link: https://amzn.to/2ZMtUuC
-        star: yes
+        star: 
         
       - title: "A Gift to My Children: A Father's Lessons for Life and Investing"
         author: Jim Rogers
         link: https://amzn.to/2ZMtUuC
-        star: yes
+        star: 
         
       - title: "The Moment of Lift: How Empowering Women Changes the World"
         author: Melinda Gates
         link: https://amzn.to/2ZMtUuC
-        star: yes
+        star: 
         
       - title: If This is a man
         author: Primo Levi
         link: https://amzn.to/2ZMtUuC
-        star: yes
+        star: 
         
       - title: "Showing Up for Life: Thoughts on the Gifts of a Lifetime"
         author: Bill Gates Senior
         link: https://amzn.to/2ZMtUuC
-        star: yes
+        star: 
         
       - title: The Scientist in the cribs
         author: Alison Gopnik
         link: https://amzn.to/2ZMtUuC
-        star: yes
+        star: 
         
       - title: The Little Prince
         author: Antoine de Saint-Exupéry
         link: https://amzn.to/2ZMtUuC
-        star: yes
+        star: 
 
   - year: "2018"
     books:
-      - title: Kindle
-        author: tba 
-        link: https://amzn.to/2ZMtUuC
-        star: yes
+      - title: The Last Black Unicorn
+        author: Tiffany Haddish 
+        link: https://a.co/gfiNbzE
+        star: 
         
-      - title: kindle
-        author: tba
+      - title: The Lost Art of Reading Nature's Signs
+        author: Tristan Gooley
         link: https://amzn.to/2ZMtUuC
-        star: yes
+        star: 
         
-      - title: kindle
-        author: tba
+      - title: The Secret Adversary
+        author: Agatha Christie
         link: https://amzn.to/2ZMtUuC
-        star: yes
+        star: 
         
-      - title: kindle
-        author: tba
+      - title: "Leonardo da Vinci: A Life from Beginning to End"
+        author: Hourly History
         link: https://amzn.to/2ZMtUuC
-        star: yes
-        
-      - title: kindle
-        author: tba
-        link: https://amzn.to/2ZMtUuC
-        star: yes
+        star: 
         
       - title: The Guernsey Literary and Potato Peel Pie Society
         author: Annie Barrows and Mary Ann Shaffer
         link: https://amzn.to/2ZMtUuC
-        star: yes
+        star: 
         
   - year: "2017"
     books:
