@@ -170,7 +170,7 @@ list:
    
   - year: "2016"
     books:
-      - title: Lean in: Women, Work, and the Will to Lead
+      - title: "Lean in: Women, Work, and the Will to Lead"
         author: Sheryl Sandberg
         link: https://a.co/0prnsEP
         star: 
@@ -180,7 +180,4 @@ list:
         link: https://www.amazon.com/gp/product/B002Q6XUE4/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i1
         star: 
         
-      - title: Thinking, fast and slow
-        author: Daniel Kahneman
-        link: https://amzn.to/2ZMtUuC
-        star: 
+     
