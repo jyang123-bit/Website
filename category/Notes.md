@@ -14,7 +14,9 @@ title: Notes
 
 <br><strong>Is this something different?</strong>
 
-<br><strong>Is this a shift in direction?</strong></p>
+<br><strong>Is this a shift in direction?</strong>
+
+</p>
 
 
 
