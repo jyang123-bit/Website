@@ -1,0 +1,12 @@
+{% for projects in site.data.projects %}
+  <article>
+    <a href="{{ projects.url }}">
+      <img src="{{ projects.img }}" alt="{{ projects.title }} {{ projects.program }}"/>
+      <p>{{ projects.title }}</p>
+    </a>
+    <p>by {{ projects.program }}</p>
+    {% if release-date %}
+      <span class="release-date">{{ projects.release_date | date: "%b %-d, %Y" }}</span>
+    {% endif %}
+  </article>
+{% endfor %}
