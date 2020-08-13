@@ -25,7 +25,7 @@ list:
       - title: Getting Real
         author: Basecamp
         link: https://amzn.to/2ZMtUuC
-        star: yes
+        star: 
         
       - title: Data Science
         author: Mike Loukides
@@ -126,61 +126,61 @@ list:
       - title: Seriously I'm kidding..
         author: Ellen Degeneres
         link: https://amzn.to/2ZMtUuC
-        star: yes
+        star: 
         
       - title: Big Magic
         author: Elizabeth Gilbert
         link: https://amzn.to/2ZMtUuC
-        star: yes
+        star: 
         
       - title: The Catcher in the Rye
         author: J. D. Salinger
         link: https://amzn.to/2ZMtUuC
-        star: yes
+        star: 
         
       - title: Letters for Emily
         author: Camron Wright
         link: https://amzn.to/2ZMtUuC
-        star: yes
+        star: 
        
       - title: Act Like a Lady, Think Like a Man
         author: Steve Harvey
         link: https://amzn.to/2ZMtUuC
-        star: yes
+        star: 
         
       - title: "His Holiness The Dalai Lama: A Message of Spiritual Wisdom"
         author: Comcast NBC Universal
         link: https://amzn.to/2ZMtUuC
-        star: yes
+        star: 
         
       - title: The Alchemist
         author: Paolo Coelho
         link: https://amzn.to/2ZMtUuC
-        star: yes 
+        star: 
        
       - title: Anne Frank
         author: tba
         link: https://amzn.to/2ZMtUuC
-        star: yes
+        star: 
         
       - title: Hokkaido Highway Blues
         author: Will Ferguson
         link: https://amzn.to/2ZMtUuC
-        star: yes
+        star: 
    
   - year: "2016"
     books:
       - title: Lean in
         author: Nell Scovell and Sheryl Sandberg
         link: https://amzn.to/2ZMtUuC
-        star: yes
+        star: 
   
       - title: Start with Why
         author: Simon Sinek
         link: https://amzn.to/2ZMtUuC
-        star: yes
+        star: 
         
       - title: Thinking, fast and slow
         author: Daniel Kahneman
         link: https://amzn.to/2ZMtUuC
-        star: yes
+        star: 
