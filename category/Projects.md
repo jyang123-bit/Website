@@ -4,6 +4,14 @@ title: Projects
 
 
 ---
-###Mapping 
 
-<p float=""><img src="../s1.png" width="150" /><img src="../s2.png" width="150" /><img src="../s3.png" width="150" /></p>
+### Mapping
+
+<p float="center"> <img src="assets/images/map.png" width=320px,height-320px></p>
+  
+#### D3 Donut
+
+<p float="center"> <img src="assets/images/d3network.png"width=320px,height-320px></p>
+                       
+##### D3 Network       
+<p float="center"> <img src="assets/images/d3donut.png"width=320px,height-320px></p>
