@@ -1,4 +1,4 @@
-{% for projects in site.data.projects %}
+{% for projects in include.list %}
   <article>
     <a href="{{ projects.url }}">
       <img src="{{ projects.img }}" alt="{{ projects.title }} {{ projects.program }}"/>
