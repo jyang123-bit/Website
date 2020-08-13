@@ -16,7 +16,7 @@ To Be update
 - [ ] Language option
 - [ ] Favicon
 - [ ] D3.js in Jekyll
-- [ ] Book List with images
+- [ ] Project List with images
 - [ ] Search Engine Optimization
 - [ ] Other functionality with [W3C](https://www.w3.org/standards/) standards practice
 
