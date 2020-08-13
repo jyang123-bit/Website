@@ -9,9 +9,9 @@ title: Notes
 </p>
   
 <p class="message">The goal of this section is that i can cross check with my list, to identify changes effectively whether 
--***Is this something new?***,
--***Is this something different?*** or 
--***Is this a shift in direction?***
+<strong>Is this something new?</strong>,
+<strong>Is this something different?</strong> or 
+<strong>Is this a shift in direction?</strong>
 </p>
 
 
