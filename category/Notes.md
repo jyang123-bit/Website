@@ -16,6 +16,6 @@ title: Notes
 
 <br><strong>Is this a shift in direction?</strong>
 
-</p>
+
 
 
