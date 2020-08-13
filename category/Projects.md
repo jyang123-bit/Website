@@ -7,7 +7,7 @@ title: Projects
 
 ### Mapping
 
-<p float="center"><img src="assets/images/map.png" width="320px",height="320px"></p>
+<p float="center"><img src="../map.png" width="320px",height="320px"></p>
                       
   
 ### D3 Donut
