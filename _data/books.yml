@@ -74,7 +74,7 @@ list:
         link: https://www.amazon.com/Moment-Lift-Empowering-Women-Changes-ebook/dp/B07FCJPWST/ref=sr_1_1?dchild=1&keywords=the+moment+of+lift+melinda+gates&qid=1597312795&s=digital-text&sr=1-1
         star: 
         
-      - title: "If This is a man: Survival in Auschwitz"
+      - title: Survival in Auschwitz
         author: Primo Levi
         link: https://www.amazon.com/Survival-Auschwitz-Primo-Levi-ebook/dp/B00E6TWJUA/ref=sr_1_2?dchild=1&keywords=if+this+is+a+man&qid=1597312869&s=digital-text&sr=1-2
         star: 
@@ -88,7 +88,12 @@ list:
         author: Alison Gopnik, Andrew N.Meltzoff, Patricia K.Kuhl
         link: https://a.co/2xHcQKI
         star: 
-        
+       
+      - title: "Business Adventures: Twelve Classic Tales from the World of Wall Street"
+        author: John Brooks
+        link: https://a.co/8c4sLrl
+        star:  
+       
       - title: The Little Prince
         author: Antoine de Saint-Exupéry
         link: https://a.co/45M247x
@@ -179,5 +184,38 @@ list:
         author: Simon Sinek
         link: https://www.amazon.com/gp/product/B002Q6XUE4/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i1
         star: 
+  
+  - year: "2015"
+    books:
+      - title: 
+        author: 
+        link: 
+        star:  
+       
+      - title: 
+        author: 
+        link: 
+        star:    
+       
+     - title: 
+        author: 
+        link: 
+        star:    
         
+     - title: 
+        author: 
+        link: 
+        star:  
+        
+     - year: "2011"
+    books:
+      - title: 
+        author: 
+        link: 
+        star:  
+       
+      - title: 
+        author: 
+        link: 
+        star:   
      
