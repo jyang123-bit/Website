@@ -10,11 +10,11 @@ title: Notes
   
 <p class="message">The goal of this section is that I can cross-check with my lists, to identify changes whether
 
-<br><strong>Is this something new? 
+<p style="position:center;"><br><strong>Is this something new? 
 
 <br><strong>Is this something different?</strong>
 
-<br><strong>Is this a shift in direction?</strong>
+<br><strong>Is this a shift in direction?</strong></p>
 
 
 
