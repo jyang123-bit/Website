@@ -185,37 +185,4 @@ list:
         link: https://www.amazon.com/gp/product/B002Q6XUE4/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i1
         star: 
   
-  - year: "2015"
-    books:
-      - title: 
-        author: 
-        link: 
-        star:  
-       
-      - title: 
-        author: 
-        link: 
-        star:    
-       
-     - title: 
-        author: 
-        link: 
-        star:    
-        
-     - title: 
-        author: 
-        link: 
-        star:  
-        
-     - year: "2011"
-    books:
-      - title: 
-        author: 
-        link: 
-        star:  
-       
-      - title: 
-        author: 
-        link: 
-        star:   
-     
+ 
