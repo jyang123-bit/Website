@@ -36,7 +36,7 @@ To get a better picture of a particular time in history, these are the links I w
   - [Big History Project](https://www.bighistoryproject.com/home) 
   
 ---  
-### Timeline from 
+### Timeline 
 `802- 1431`<kbd>(years)</kbd> Angkor Empire(Khmer)
 
 `849- 1297`<kbd>(years)</kbd> Bagan Empire
