@@ -99,7 +99,7 @@ list:
         link: https://a.co/45M247x
         star: 
 
-- year: "2018"
+  - year: "2018"
     books:
       - title: The Last Black Unicorn
         author: Tiffany Haddish 
