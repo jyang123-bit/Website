@@ -15,9 +15,10 @@ last_modified_at:
 ---
 
 <p class="message">
-  <span class="padded-dropcap">A</span> collective of social-economic events & remarkable people in South East Asia and around the world, listed in chronological order.
+  <span class="padded-dropcap">A</span> collective of social-economic events & remarkable people in South East Asia and around the world. Listed in chronological order.
 </p>
 
+### Quote about the society
 > "The way societies evolve is by going from dictatorship to oligarchy to democracy to chaos and back to dictatorship." 
 
 <cite>Plato</cite>---The Republic, 375 BC 
@@ -27,24 +28,24 @@ last_modified_at:
 <cite>Yuval Noah Hariri</cite>---Sapiens, 2014
 
 ---
-
-To get a better picture of a period of time in history, these are the links i would recommend:   
+### Recommendation 
+To get a better picture of a particular time in history, these are the links I would recommend:   
   - Travelogue footage of <a href="https://www.youtube.com/c/michaelijsbrand/about">Michael Rogge</a> from `1912` to `2011`.
   - [The Travel Film Archive](http://www.travelfilmarchive.com/home.php) from `1900` to `1970`.
   - Newsreel and documentaries archive by <a href="https://www.youtube.com/c/britishpathe/about">British Pathé</a> from `1910` to `1984`.
-  - [Big History Project](https://www.bighistoryproject.com/home)
+  - [Big History Project](https://www.bighistoryproject.com/home) 
   
 ---  
+### Timeline from 
+`802- 1431`<kbd>(years)</kbd> Angkor Empire(Khmer)
 
-`802- 1431`<kbd>(629 years)</kbd> Angkor Empire(Khmer)
+`849- 1297`<kbd>(years)</kbd> Bagan Empire
 
-`849- 1297`<kbd>(448 years)</kbd> Bagan Empire
+`1293- 1517`<kbd>(years)</kbd> Majapahit Empire 
 
-`1293- 1517`<kbd>(224 years)</kbd> Majapahit Empire 
+`1350- 1767`<kbd>(years)</kbd> Ayutthaya Kingdom
 
-`1350- 1767`<kbd>(417 years)</kbd> Ayutthaya Kingdom
-
-`1402` Malacca port by local sultanates
+`1402` Malacca sultanates
 
 `1501- 1600` Spain dominated western europe in 16th century
 
