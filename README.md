@@ -1,5 +1,4 @@
-# Website
-This is where I will be practicing information technology skills with social economic interests .  
+On this site, I will be practicing Data Visualisation with social-economic interests and subjects that I find interesting on a side note.
 
 Built with
 ----
@@ -10,14 +9,13 @@ Featured
 ----
 - [x] Mailto link added subject line and body content
 - [x] Book List 
+- [x] Project List with images
 
 To Be update
 ----
 - [ ] Language option
 - [ ] Favicon
-- [ ] D3.js in Jekyll
-- [ ] Project List with images
+- [ ] D3.js in Jekyll test post
 - [ ] Search Engine Optimization
 - [ ] Other functionality with [W3C](https://www.w3.org/standards/) standards practice
 
-## Welcome to view the site in [here](https://jyang123-bit.github.io/Website/).
