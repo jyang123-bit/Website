@@ -1,11 +1,11 @@
 ---
-layout: category
+layout: default
 title: About
 category: My Category
 
 ---
 
-<p class="message"><span class="padded-dropcap">O</span>n this site, I will be practicing Data Visualisation with social-economic interests and subjects that I find interesting on a side note.</p>
+<p class="message"><span class="padded-dropcap">W</span>elcome to this site! This is where I will be practicing Data Visualisation with social-economic interests. You will see some subjects that I find interesting on a side note.</p>
 
 I am building this static website with [W3C](http://w3.org/standards/) standards in mind.
 
