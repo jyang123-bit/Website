@@ -17,6 +17,8 @@ last_modified_at:
   <span class="padded-dropcap">A</span> list of collective wisdom, picking up from the knowledge of many great authors.
 </p>
 
+---
+
 <div class="dropdown" style="float:right;">
   <button class="dropbtn">In years</button>
   <div class="dropdown-content">
