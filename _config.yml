@@ -3,9 +3,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Jing Yuh 
-email: Jingyuh.applicant@gmail.com
-github_username:  jyang123-bit
+title:             Jing Yuh 
+tagline:           Personal website 
+email:             Jingyuh.applicant@gmail.com
+github_username:   jyang123-bit
+url:               https://github.com/jyang123-bit/Website
+baseurl:           /Website/
 
 # Jekyll Configurations
 markdown:         kramdown
@@ -19,3 +22,9 @@ paginate:         5
 sidebar_home_link:  true
 page_excerpts: true
 
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _scss
+  style:            :compressed
