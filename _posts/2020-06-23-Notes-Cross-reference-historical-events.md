@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cross reference Historical events"
+title: "Cross-reference Historical events"
 
 categories:
   - Notes
@@ -8,7 +8,7 @@ categories:
 tags:
   - Content
   - Notes
-  - Cross reference
+  - Cross-reference
   - Historical events
 
 last_modified_at: 
