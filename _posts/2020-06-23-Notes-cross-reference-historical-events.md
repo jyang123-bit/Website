@@ -169,6 +169,8 @@ Great Britain dominated 19th century
 
 `1965` Singapore independence (from Malaysia)
 
+`1966-1997` Rent Control Act Malaysia
+
 `1968- 1969` H3N2 Hong Kong flu pandemic
 
 `1969` Malaysia race riot
