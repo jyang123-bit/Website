@@ -18,6 +18,8 @@ last_modified_at:
   <span class="padded-dropcap">A</span> collective of social-economic events & remarkable people in South East Asia and around the world. Listed in chronological order.
 </p>
 
+---
+
 ## >> Quote about the society <<
 > "The way societies evolve is by going from dictatorship to oligarchy to democracy to chaos and back to dictatorship." 
 
