@@ -3,28 +3,35 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
+# Jekyll Configurations
+markdown:           kramdown
+highlighter:        rouge
+
+# Setup
 title:             Jing Yuh 
-tagline:           Personal website 
+tagline:           'Personal Website' 
+description:       ''
 email:             Jingyuh.applicant@gmail.com
 github_username:   jyang123-bit
 url:               https://github.com/jyang123-bit/Website
-baseurl:           /Website/
+baseurl:           '/Website'
 
-# Jekyll Configurations
-markdown:         kramdown
-highlighter:      rouge
+
 
 remote_theme: fongandrew/hydeout
 
-paginate:         5
+paginate:          5
+# paginate_path:    '/page:num'
+                    # Or '/blog/page:num' if you want to move your index pages
 
-
+# Sidebar link settings
 sidebar_home_link:  true
+# sidebar_blog_link:  '/blog'   # By default, your home page is your blog
+                                # page. If you change your paginate_path,
+                                # set this to the root of the paginate_path
+                                # to enable a separate blog link.
+
 page_excerpts: true
 
-# Assets
-#
-# We specify the directory for Jekyll so we can use @imports.
-sass:
-  sass_dir:          _scss
-  style:            :compressed
+
