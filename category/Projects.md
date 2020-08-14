@@ -5,42 +5,6 @@ title: Projects
 
 ---
 
-<link rel="stylesheet" href="/assets/css/main.scss" /></link>
 
-<style type="projects" {
-* {
-  box-sizing: border-box;
-}
-
-article {
-  display: inline-block;
-  width: 320px;
-  height: 420px;
-  padding: 8px;
-  overflow: hidden;
-}
-
-article img {
-  width: 320px;
-  height: 320px;
-}
-
-.markdown-body article p {
-  margin-bottom: 0;
-}
-
-.release-date {
-  color: gray;
-  font-size: 90%;
-}
-.tag {
-  color: white;
-  background-color: lightgray;
-  border-radius: 12px;
-  font-size: 90%;
-  padding: 2px 8px;
-}
-}	
-</style>
 {% include projects.html list=site.data.projects %}
 
