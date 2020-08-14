@@ -12,11 +12,11 @@ title: Notes
 
 The goal of this section is that I can cross-check with my lists, to identify changes whether
 
-<p style="text-align:center">-<strong>Is this something <ins>new</ins>? 
+      -<strong>Is this something <ins>new</ins>? 
 
--<strong>Is this something <ins>different</ins>?</strong>
+      -<strong>Is this something <ins>different</ins>?</strong>
 
--<strong>Is this a <ins>shift</ins> in direction?</strong>
+      -<strong>Is this a <ins>shift</ins> in direction?</strong>
 
 ---
 
