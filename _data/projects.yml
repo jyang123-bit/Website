@@ -3,24 +3,28 @@
   tag: [leaflet, Open Street Map]
   img: https://user-images.githubusercontent.com/58260451/75676875-22c6fb80-5cc5-11ea-8eaa-1d7b2ab50596.PNG
   url: https://jyang123-bit.github.io/MyHeritageWatch/
+  details: https://github.com/jyang123-bit/MyHeritageWatch#readme
   
 - title: Tree Layout
   program: D3
   tag: [D3, Version 3, Version 5]
   img: https://user-images.githubusercontent.com/58260451/75676875-22c6fb80-5cc5-11ea-8eaa-1d7b2ab50596.PNG
   url: https://jyang123-bit.github.io/UNsystem/ 
+  details: https://github.com/jyang123-bit/UNsystem#readme
 
 - title: Donut
   program: D3
   tag: [D3, Version 4]
   img: https://user-images.githubusercontent.com/58260451/79110122-5446e280-7dac-11ea-8911-b2dce498afb4.png
   url: https://jyang123-bit.github.io/d3v4donut/
+  details: https://github.com/jyang123-bit/d3v4donut#readme
 
 - title: Web Slideshow
   program: HTML, CSS
   tag: [HTML, CSS]
   img: https://user-images.githubusercontent.com/58260451/75683252-c4544a00-5cd1-11ea-850f-1a1ac4984981.PNG
   url: https://jyang123-bit.github.io/slideshow/
+  details: https://github.com/jyang123-bit/slideshow#readme
 
   
  
