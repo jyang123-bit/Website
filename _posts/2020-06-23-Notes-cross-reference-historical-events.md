@@ -15,7 +15,7 @@ last_modified_at:
 ---
 
 <p class="message">
-  <span class="padded-dropcap">A</span> collective of social economic events & remarkable people in South East Asia and around the world, listed in chronological order.
+  <span class="padded-dropcap">A</span> collective of social-economic events & remarkable people in South East Asia and around the world, listed in chronological order.
 </p>
 
 > "The way societies evolve is by going from dictatorship to oligarchy to democracy to chaos and back to dictatorship." 
