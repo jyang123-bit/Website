@@ -41,7 +41,6 @@ list:
         author: Ali Wong
         link: https://a.co/jaAWrPZ
         star: 
-  ---
   
   - year: "2019"
     books:
@@ -99,7 +98,6 @@ list:
         author: Antoine de Saint-Exupéry
         link: https://a.co/45M247x
         star: 
----
 
 - year: "2018"
     books:
