@@ -9,7 +9,7 @@ title: Notes
 </p>
   
 <div class="message">The goal of this section is that I can cross-check with my lists, to identify changes whether
-<p style="text-align: center;"><strong>Is this something <ins>new</ins>? 
+<strong>Is this something <ins>new</ins>? 
 
 <br><strong>Is this something <ins>different</ins>?</strong>
 
