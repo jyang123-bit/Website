@@ -9,7 +9,7 @@ markdown:           kramdown
 highlighter:        rouge
 
 # Setup
-title:             Jing Yuh 
+title:             'Jing Yuh' 
 tagline:           'Personal Website' 
 description:       'Skill sets including, but not limited to'
 email:             Jingyuh.applicant@gmail.com
