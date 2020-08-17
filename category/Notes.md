@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Notes
+title: Side Notes
 
 
 ---
