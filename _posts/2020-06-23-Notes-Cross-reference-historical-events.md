@@ -20,7 +20,7 @@ last_modified_at:
 
 ---
 
-## >> Quote about the society <<
+## Quote about the society 
 > "The way societies evolve is by going from dictatorship to oligarchy to democracy to chaos and back to dictatorship." 
 
 <cite>Plato</cite>---The Republic, 375 BC 
@@ -30,7 +30,7 @@ last_modified_at:
 <cite>Yuval Noah Hariri</cite>---Sapiens, 2014
 
 ---
-## >> Recommendation <<
+## Recommendation 
 To get a better picture of a particular time in history, these are the links I would recommend:   
   - Travelogue footage of <a href="https://www.youtube.com/c/michaelijsbrand/about">Michael Rogge</a> from `1912` to `2011`.
   - [The Travel Film Archive](http://www.travelfilmarchive.com/home.php) from `1900` to `1970`.
@@ -38,7 +38,7 @@ To get a better picture of a particular time in history, these are the links I w
   - [Big History Project](https://www.bighistoryproject.com/home) 
   
 ---  
-## >> Timeline <<
+## Timeline 
 `802- 1431`<kbd>(years)</kbd> Angkor Empire(Khmer)
 
 `849- 1297`<kbd>(years)</kbd> Bagan Empire
