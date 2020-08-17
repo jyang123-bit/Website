@@ -15,7 +15,7 @@ description:       'Skill sets including, but not limited to'
 email:             Jingyuh.applicant@gmail.com
 github_username:   jyang123-bit
 url:               https://github.com/jyang123-bit/Website
-baseurl:           '/Website'
+baseurl:           ''
 
 
 
@@ -25,13 +25,8 @@ paginate:          5
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
-# Sidebar link settings
-sidebar_home_link:  true
-# sidebar_blog_link:  '/blog'   # By default, your home page is your blog
-                                # page. If you change your paginate_path,
-                                # set this to the root of the paginate_path
-                                # to enable a separate blog link.
 
-page_excerpts: true
+
+
 
 
