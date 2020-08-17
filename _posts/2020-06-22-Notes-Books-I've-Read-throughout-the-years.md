@@ -20,7 +20,7 @@ last_modified_at:
 ---
 
 <div class="dropdown" style="float:right;">
-  <button class="dropbtn">In years</button>
+  <button class="dropbtn">In years &#x2193</button>
   <div class="dropdown-content">
     <a href="#2020">2020</a>
     <a href="#2019">2019</a>
