@@ -3,11 +3,11 @@ layout: post
 title: "Smokes & Mirrors"
 
 categories:
-  - Notes
+  - Side Notes
 
 tags:
   - Content
-  - Notes
+  - Side Notes
   
 
 last_modified_at: 
