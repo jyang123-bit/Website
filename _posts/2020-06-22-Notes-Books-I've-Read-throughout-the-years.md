@@ -3,11 +3,11 @@ layout: post
 title: "Books I've Read throughout the years"
 
 categories:
-  - Notes
+  - Side Notes
 
 tags:
   - Content
-  - Notes
+  - Side Notes
   - Books
 
 last_modified_at: 
