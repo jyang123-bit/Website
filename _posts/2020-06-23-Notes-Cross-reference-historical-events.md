@@ -3,11 +3,11 @@ layout: post
 title: "Cross-reference Historical events"
 
 categories:
-  - Notes
+  - Side Notes
 
 tags:
   - Content
-  - Notes
+  - Side Notes
   - Cross-reference
   - Historical events
 
