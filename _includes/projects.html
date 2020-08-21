@@ -2,7 +2,7 @@
 <div class="projects">
 {% for projects in include.list %}
   <article>
-    <p>{{ projects.title }}</p>
+    <h3>{{ projects.title }}</h3>
     <a href="{{ projects.url }}">
       <img src="{{ projects.img }}" alt="{{ projects.title }} {{ projects.program }}"/>
       </a>
