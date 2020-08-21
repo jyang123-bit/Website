@@ -10,7 +10,7 @@ title: Side Notes
 
 ---
 
-The goal of this section is that I can cross-check with my lists, to identify changes whether
+The goal of this section is that I can cross-check with my lists, to identify relational changes whether
 
   - **Is this something <ins>new</ins>?**
   
