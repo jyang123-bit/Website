@@ -2,11 +2,13 @@
 <div class="projects">
 {% for projects in include.list %}
   <article>
+    
     <a href="{{ projects.url }}">
-      <img src="{{ projects.img }}" alt="{{ projects.title }} {{ projects.program }}"/>
       <p>{{ projects.title }}</p>
+      <p>with {{ projects.program }}</p>  
+      <img src="{{ projects.img }}" alt="{{ projects.title }} {{ projects.program }}"/>
     </a>
-    <p>with {{ projects.program }}</p>
+    
     <p><a href="{{ projects.details }}">Read more</a></p>
     {% if projects.tags %}
       {% for tag in projects.tags %}
