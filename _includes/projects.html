@@ -3,14 +3,13 @@
 {% for projects in include.list %}
   <article>
     <p>{{ projects.title }}</p>
-    <a href="{{ projects.url }}"></a>
-      
-      <p>with {{ projects.program }}</p>  
-      
-    <img src="{{ projects.img }}" alt="{{ projects.title }} {{ projects.program }}"/>
+    <a href="{{ projects.url }}">
+      <img src="{{ projects.img }}" alt="{{ projects.title }} {{ projects.program }}"/>
+      </a>
     
+    <p>with {{ projects.program }}</p>  
     
-    <p><a href="{{ projects.details }}">Read more U+02192</a></p>
+    <p><a href="{{ projects.details }}">Read more &#x2192;</a></p>
     {% if projects.tags %}
       {% for tag in projects.tags %}
         <span class="tag">{{ tag }}</span>
