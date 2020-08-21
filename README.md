@@ -1,4 +1,4 @@
-On this site, I will be practicing Data Visualisation with social-economic interests and subjects that I find interesting on a side note.
+On this site, I will be practicing Web application, Data Visualisation with social-economic interests and relational subject that I find interesting on a side note.
 
 Built with
 ----
