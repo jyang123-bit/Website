@@ -264,3 +264,5 @@ China dominate 21st Century
 - China-India tensions (borders military standoff)
 - China-Canada tensions (Huawei case)
 - China- Australia tensions (covid19, trade sanctions)
+- Thai political protest 
+- Russia Minsk protest
