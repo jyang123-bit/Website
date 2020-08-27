@@ -20,7 +20,7 @@ last_modified_at:
 ---
 
 | Aware of..                                                                 |
-|:--------------------------------------------------------------------------:|
+|:---------------------------------------------------------------------------|
 | Aggressive revenue recognition                                             |
 | CFO/Net income < 1 or reducing                                             |
 | Abnormal sales growth/ inventory growth/ gross margin/ operating margin    |
