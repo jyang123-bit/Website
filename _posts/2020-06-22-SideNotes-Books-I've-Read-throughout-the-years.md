@@ -13,8 +13,6 @@ tags:
 last_modified_at: 
 ---
 
-{% endcase %}
-<link rel="stylesheet" href="{{ site.baseurl }}/_sass/jingyuh.scss">
 
 <p class="message">
   <span class="padded-dropcap">A</span> list of collective wisdom, picking up from the knowledge of many great authors.
