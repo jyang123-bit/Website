@@ -14,20 +14,14 @@ last_modified_at:
 ---
 
 <p class="message">
-  <span class="padded-dropcap">A</span> list of financial reporting red flag.  
+  <span class="padded-dropcap">I</span>dentify unsustainable practices.  
 </p>
 
 ---
 
-| Aware of..                                                                 |
+| Financial reporting red flag                                               |
 |:---------------------------------------------------------------------------|
 | Aggressive revenue recognition                                             |
-|---------------------------------------------------------------------------:|
-| Long term contract                                                         |
-| Barter transaction                                                         |
-| Installment sales                                                          |  
-| Gross/net revenue reporting                                                |
-|:---------------------------------------------------------------------------|
 | CFO/Net income < 1 or reducing                                             |
 | Abnormal sales growth/ inventory growth/ gross margin/ operating margin    |
 | Abnormal use of operating lease                                            |
