@@ -22,6 +22,12 @@ last_modified_at:
 | Aware of..                                                                 |
 |:---------------------------------------------------------------------------|
 | Aggressive revenue recognition                                             |
+|---------------------------------------------------------------------------:|
+| * Long term contract                                                       |
+| * Barter transaction                                                       |
+| * Installment sales                                                        |
+| * Gross/net revenue reporting                                              |
+|:---------------------------------------------------------------------------|
 | CFO/Net income < 1 or reducing                                             |
 | Abnormal sales growth/ inventory growth/ gross margin/ operating margin    |
 | Abnormal use of operating lease                                            |
