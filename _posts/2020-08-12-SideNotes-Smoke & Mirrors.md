@@ -23,10 +23,10 @@ last_modified_at:
 |:---------------------------------------------------------------------------|
 | Aggressive revenue recognition                                             |
 |---------------------------------------------------------------------------:|
-| * Long term contract                                                       |
-| * Barter transaction                                                       |
-| * Installment sales                                                        |
-| * Gross/net revenue reporting                                              |
+| Long term contract                                                         |
+| Barter transaction                                                         |
+| Installment sales                                                          |  
+| Gross/net revenue reporting                                                |
 |:---------------------------------------------------------------------------|
 | CFO/Net income < 1 or reducing                                             |
 | Abnormal sales growth/ inventory growth/ gross margin/ operating margin    |
