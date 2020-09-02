@@ -31,3 +31,5 @@ last_modified_at:
 | Year end surprise                                                          |
 | Off balance sheet entities or financing arrangements                       |
 |----------------------------------------------------------------------------|
+
+![Fraud-check](/_data/images/Fraud-check.png)
