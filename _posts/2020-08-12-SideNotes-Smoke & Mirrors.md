@@ -32,4 +32,4 @@ last_modified_at:
 | Off balance sheet entities or financing arrangements                       |
 |----------------------------------------------------------------------------|
 
-![Fraud-check](/assets/Fraud-check.png)   ![Fad-check](/assets/Fad-check.png)
+![Fraud-check](Fraud-check.png)   ![Fad-check](Fad-check.png)
