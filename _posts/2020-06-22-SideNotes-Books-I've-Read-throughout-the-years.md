@@ -3,7 +3,7 @@ layout: post
 title: "Books I've Read throughout the years"
 
 categories:
-  - /Side Notes
+  - Side Notes
 
 tags:
   - Content
