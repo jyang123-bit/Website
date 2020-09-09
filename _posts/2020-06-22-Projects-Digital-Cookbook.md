@@ -3,7 +3,7 @@ layout: post
 title: Digital Cookbook
 
 categories:
-  - /Projects 
+  - Projects 
 
 tags:
   - Content
