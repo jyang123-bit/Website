@@ -5,7 +5,7 @@ title: Side Notes
 
 ---
 <p class="message">
-  <span class="padded-dropcap">T</span>he goal of this section is that I can cross-check with my lists, to identify relational changes whether:
+  <span class="padded-dropcap">T</span>he goal of this section is to cross-check with my lists, to identify relational changes whether:
 </p>
 
 ---
