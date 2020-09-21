@@ -15,7 +15,7 @@ last_modified_at:
 ---
 
 <p class="message">
-  <span class="padded-dropcap">A</span> collective of social-economic events & remarkable people in South East Asia and around the world. Listed in chronological order.
+  <span class="padded-dropcap">I</span> believe we are living in a chaotic world. Life is unfolding slowly.
 </p>
 
 ---
@@ -30,7 +30,7 @@ last_modified_at:
 <cite>Yuval Noah Hariri</cite>---Sapiens, 2014
 
 ---
-## Recommendation 
+## Time Machine 
 To get a better picture of a particular time in history, these are the links I would recommend:   
   - Travelogue footage of <a href="https://www.youtube.com/c/michaelijsbrand/about">Michael Rogge</a> from `1912` to `2011`.
   - [The Travel Film Archive](http://www.travelfilmarchive.com/home.php) from `1900` to `1970`.
