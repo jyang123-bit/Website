@@ -2,44 +2,92 @@ lastupdate: August 6, 2020
 list:
   - year: "2020"
     books:
+      - title: "Open: An Autobiography"
+        author: Andre Agassi
+        link: https://a.co/i6CBs15
+        genre: Autobiography
+        published: 2009
+        pages: 432 pages
+        star: 
+      
+      - title: "Building Social Business"
+        author: Muhammad Yunus
+        link: https://a.co/hFkGUnB
+        genre:
+        published: 2010
+        pages: 256 pages
+        star: 
+      
+      - title: "Building Social Business"
+        author: Muhammad Yunus
+        link: https://a.co/6VJA2k8
+        genre:
+        published:2010
+        pages: 469 pages
+        star: 
+      
       - title: "Sapiens: A Brief History of Humankind"
         author: Yuval Noah Harari
         link: https://a.co/6VJA2k8
+        genre:
+        published:
+        pages: 469 pages
         star: 
   
       - title: Manual of the warrior of Light
         author: Paulo Coelho
         link: https://paulocoelhoblog.com/books-online/
+        genre:
+        published:
+        pages: 160 pages
         star: 
       
       - title: "Investment Biker: Around the World with Jim Rogers"
         author: Jim Rogers
         link: https://a.co/5OuWmPj
+        genre:
+        published:
+        pages: 408 pages
         star: 
         
       - title: The way of the Bow
         author: Paulo Coelho
         link: https://paulocoelhoblog.com/books-online/
+        genre:
+        published:
+        pages: 72 pages
         star: 
         
       - title: Getting Real
         author: Basecamp
         link: hhttps://basecamp.com/books/getting-real
+        genre:
+        published:
+        pages:  pages
         star: 
         
       - title: What is Data Science?
         author: Mike Loukides
         link: https://www.oreilly.com/library/view/what-is-data/9781449336080/
+        genre:
+        published:
+        pages: pages
         star: 
         
       - title: "Street Smart: Adventures on the Road and in the Markets"
         author: Jim Rogers
         link: https://a.co/80rUosh
+        genre:
+        published:
+        pages: 274 pages
         star: 
         
       - title: Dear Girls
         author: Ali Wong
         link: https://a.co/jaAWrPZ
+        genre:
+        published:
+        pages: 240 pages
         star: 
   
   - year: "2019"
