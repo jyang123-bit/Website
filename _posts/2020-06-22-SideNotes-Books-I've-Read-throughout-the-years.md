@@ -51,8 +51,7 @@ last_modified_at:
           <p>Author: {{ book.author }}</p>
           <p>Genre: {{ book.genre }}</p>
           <p>Published: {{ book.published }}</p>
-          <p>Pages: {{ book.pages }}</p>
-          
+          <p>Pages: {{ book.pages }}</p> 
         </li>
         {% endfor %}
       </ul>
