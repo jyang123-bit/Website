@@ -1,9 +1,9 @@
 {% endcase %}
 <link rel="stylesheet" href="{{ site.baseurl }}/_sass/jingyuh.scss">
 
-<div class="container">
-  <div class="last-update">Last updated {{ site.data.reading.lastupdate }}</div>
-  {% for entry in site.data.reading.list %}
+<div class="booklist">
+  <div class="last-update">Last updated {{ site.data.books.lastupdate }}</div>
+  {% for entry in site.data.books.list %}
   <div class="year-container">
     <div class="year">
       <h4>{{ entry.year }}</h4>
@@ -16,11 +16,8 @@
           <a href="{{ book.link }}" alt="_blank" rel="nofollow noopener">{{
             book.title
           }}</a>
-          <p>Author: {{ book.author }}</p>
-          <p>Genre: {{ book.genre }}</p>
-          <p>Published: {{ book.published }}</p>
-          <p>Pages: {{ book.pages }}</p>
-          
+          <span class="author">by {{ book.author }}</span
+          >{% if book.star %}<span class="star">★</span>{% endif %}
         </li>
         {% endfor %}
       </ul>
