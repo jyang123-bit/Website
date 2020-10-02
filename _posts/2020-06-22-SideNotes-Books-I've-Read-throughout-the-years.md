@@ -43,23 +43,22 @@ last_modified_at:
       <h4>{{ entry.year }}</h4>
       <div class="number">{{ entry.books | size }} books</div>
     </div>
+    
     <div class="books">
-      <ul class="books{{ entry.year }}">
+      <ul class="reading-list {{ entry.year }}">
         {% for book in entry.books %}
         <li>
           <a href="{{ book.link }}" alt="_blank" rel="nofollow noopener">{{
             book.title
           }}</a>
-          <p>Author: {{ book.author }}</p>
-          <p>Published: {{ book.published }}</p>
-          <p>Pages: {{ book.pages }}</p>
-          <p>Genre: {{ book.genre }}</p>
-          {% if book.star %}<span class="star">★</span>{% endif %}
+          <span class="author">by {{ book.author }}</span
+          >{% if book.star %}<span class="star">★</span>{% endif %}
         </li>
         {% endfor %}
       </ul>
     </div>
   </div>
   {% endfor %}
-</div>  
+</div>
+
 
