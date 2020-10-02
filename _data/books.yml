@@ -7,8 +7,7 @@ list:
         link: https://a.co/i6CBs15
         genre: Autobiography
         published: 2009
-        pages: 432 pages
-        star: 
+        pages: 432 pages 
       
       - title: Building Social Business
         author: Muhammad Yunus
@@ -16,7 +15,6 @@ list:
         genre:
         published: 2010
         pages: 256 pages
-        star: 
       
       - title: "The Smartest Guys In The Room: The Amazing Rise and Scandalous Fall of Enron"
         author: "Bethany McLean & Peter Elkind"
@@ -24,7 +22,6 @@ list:
         genre:
         published: 2013
         pages: 694 pages
-        star: 
       
       - title: "Sapiens: A Brief History of Humankind"
         author: Yuval Noah Harari
@@ -32,7 +29,6 @@ list:
         genre:
         published: 2015
         pages: 469 pages
-        star: 
   
       - title: Manual of the warrior of Light
         author: Paulo Coelho
@@ -40,7 +36,6 @@ list:
         genre:
         published:
         pages: 160 pages
-        star: 
       
       - title: "Investment Biker: Around the World with Jim Rogers"
         author: Jim Rogers
@@ -48,7 +43,6 @@ list:
         genre:
         published:
         pages: 408 pages
-        star: 
         
       - title: The way of the Bow
         author: Paulo Coelho
@@ -56,7 +50,6 @@ list:
         genre:
         published:
         pages: 72 pages
-        star: 
         
       - title: Getting Real
         author: Basecamp
@@ -64,7 +57,6 @@ list:
         genre:
         published:
         pages:  pages
-        star: 
         
       - title: What is Data Science?
         author: Mike Loukides
@@ -72,7 +64,6 @@ list:
         genre:
         published:
         pages: pages
-        star: 
         
       - title: "Street Smart: Adventures on the Road and in the Markets"
         author: Jim Rogers
@@ -80,15 +71,13 @@ list:
         genre:
         published:
         pages: 274 pages
-        star: 
         
       - title: Dear Girls
         author: Ali Wong
         link: https://a.co/jaAWrPZ
         genre:
         published:
-        pages: 240 pages
-        star: 
+        pages: 240 pages 
   
   - year: "2019"
     books:
