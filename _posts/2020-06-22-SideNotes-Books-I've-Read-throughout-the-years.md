@@ -43,7 +43,6 @@ last_modified_at:
       <h4>{{ entry.year }}</h4>
       <div class="number">{{ entry.books | size }} books</div>
     </div>
-    
     <div class="books">
       <ul class="reading-list {{ entry.year }}">
         {% for book in entry.books %}
