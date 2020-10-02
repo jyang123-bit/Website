@@ -49,8 +49,10 @@ last_modified_at:
             book.title
           }}</a>
           <p>Author: {{ book.author }}</p>
+          <p>Published: {{ book.published }}</p>
+          <p>Pages: {{ book.pages }}</p>
           <p>Genre: {{ book.genre }}</p>
-          >{% if book.star %}<span class="star">★</span>{% endif %}
+          {% if book.star %}<span class="star">★</span>{% endif %}
         </li>
         {% endfor %}
       </ul>
