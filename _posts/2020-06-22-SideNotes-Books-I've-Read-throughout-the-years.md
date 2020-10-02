@@ -33,6 +33,9 @@ last_modified_at:
   </div>
 </div>
 
+{% endcase %}
+<link rel="stylesheet" href="{{ site.baseurl }}/_sass/jingyuh.scss">
+
 <div class="booklist">
   <div class="last-update">Last updated {{ site.data.books.lastupdate }}</div>
   {% for entry in site.data.books.list %}
