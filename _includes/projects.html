@@ -15,7 +15,7 @@
         <span class="tag">{{ tag }}</span>
       {% endfor %}
     {% else %}
-      <span class="release-date">{{ album.release_date | date: "%b %-d, %Y" }}</span>
+      <span class="release-date">{{ projects.release_date | date: "%b %-d, %Y" }}</span>
     {% endif %}
   </article>
 {% endfor %}
