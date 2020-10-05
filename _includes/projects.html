@@ -9,7 +9,7 @@
     
     <p>with {{ projects.program }}</p>  
     
-    <p><a href="{{ projects.details }}">Read more &#x2192;</a></p>
+    <a class="button" href="{{ projects.details }}">Read more &#x2192;</a>
     {% if projects.tags %}
       {% for tag in projects.tags %}
         <span class="tag">{{ tag }}</span>
