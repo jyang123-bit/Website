@@ -15,7 +15,7 @@ last_modified_at:
 ---
 
 <p class="message">
-  <span class="padded-dropcap">I</span> believe we are living in a chaotic world. Life is unfolding slowly.
+  <span class="padded-dropcap">T</span>his is my pocket list of history and current events.
 </p>
 
 ---
