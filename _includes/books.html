@@ -16,7 +16,13 @@
             book.title
           }}</a>
           <span class="author">by {{ book.author }}</span
-          >{% if book.star %}<span class="star">★</span>{% endif %}
+          
+          //<p>Author: {{ book.author }}</p>
+          //<p>Published: {{ book.published }}</p>
+          //<p>Pages: {{ book.pages }}</p>
+          //<p>Genre: {{ book.genre }}</p>
+          
+          {% if book.star %}<span class="star">★</span>{% endif %}
         </li>
         {% endfor %}
       </ul>
