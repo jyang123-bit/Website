@@ -33,31 +33,6 @@ last_modified_at:
   </div>
 </div>
 
-<link rel="stylesheet" href="{{ site.baseurl }}/_sass/jingyuh.scss">
-
-<div class="booklist">
-  <div class="last-update">Last updated {{ site.data.books.lastupdate }}</div>
-  {% for entry in site.data.books.list %}
-  <div class="year-container">
-    <div class="year">
-      <h4>{{ entry.year }}</h4>
-      <div class="number">{{ entry.books | size }} books</div>
-    </div>
-    <div class="books">
-      <ul class="reading-list {{ entry.year }}">
-        {% for book in entry.books %}
-        <li>
-          <a href="{{ book.link }}" alt="_blank" rel="nofollow noopener">{{
-            book.title
-          }}</a>
-          <span class="author">by {{ book.author }}</span
-          >{% if book.star %}<span class="star">★</span>{% endif %}
-        </li>
-        {% endfor %}
-      </ul>
-    </div>
-  </div>
-  {% endfor %}
-</div>
+{% include books.html list=site.data.books %}
 
 
