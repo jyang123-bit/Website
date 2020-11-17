@@ -94,13 +94,13 @@ Great Britain dominated 19th century
 
 `1923- 2015`<kbd>(92 years)</kbd> Lee Kuan Yew
 
-`1923` Robert Kuok
+`1923` Robert Kuok born
 
 `1924` Rowell Road Little India, Singapore
 
-`1925` Tun Mahathir
+`1925` Tun Mahathir born
 
-`1926` Queen Elizabeth
+`1926` Queen Elizabeth born
 
 `1927- 2016`<kbd>(87 years)</kbd> Former King of Thailand
 
@@ -110,9 +110,9 @@ Great Britain dominated 19th century
 
 `1930- 2006`<kbd>(76 years)</kbd> Grandpa
 
-`1930` Warren Buffet
+`1930` Warren Buffet born
 
-`1938` Tun Daim
+`1938` Tun Daim born
 
 `1939- 1945`<kbd>(6 years)</kbd> World War II
 
@@ -124,13 +124,13 @@ Great Britain dominated 19th century
 
 `1945- 2000`<kbd>(55 years)</kbd> Kuomintang(KMT) rule in Taiwan until Chen Shui Bian
 
-`1945` Aung San Suu Kyi
+`1945` Aung San Suu Kyi born
 
 `1945` Indonesia independence (from Dutch) 
 
 `1946` North & South korea divided 
 
-`1946` Grandma
+`1946` Grandma born
 
 `1947- 1991`<kbd>(44 years)</kbd> Cold War
 
@@ -138,13 +138,15 @@ Great Britain dominated 19th century
 
 `1948` Sri Lanka independence (from British)
 
+`1948- 1994` South Africa apartheid (Ended by Nelson Mandela)
+
 `1949` Myanmar independence (from British)
 
 `1949` Laos independence (from France)
 
 `1949` People's republic of China (communist party)
 
-`1949` Gennaro Contaldo 
+`1949` Gennaro Contaldo born 
 
 `1950- 1953`<kbd>(3 years)</kbd> Korean War
 
@@ -152,7 +154,7 @@ Great Britain dominated 19th century
 
 `1953` Cambodia independence (from France) 
 
-`1955` Bill Gates
+`1955` Bill Gates born
 
 `1955- 1975`<kbd>(20 years)</kbd> Vietnam War
 
@@ -162,13 +164,13 @@ Great Britain dominated 19th century
 
 `1962- 1990`<kbd>(27 years)</kbd> Nelson Mandela political imprison                
 
-`1963` Michael Jordan
+`1963` Michael Jordan born
 
 `1963` Malaysia Day
 
-`1964` Parents
+`1964` Parents born
 
-`1964` Michelle Obama
+`1964` Michelle Obama born
 
 `1965` Singapore independence (from Malaysia)
 
