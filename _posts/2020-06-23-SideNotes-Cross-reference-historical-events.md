@@ -138,7 +138,7 @@ Great Britain dominated 19th century
 
 `1948` Sri Lanka independence (from British)
 
-`1948- 1994` South Africa apartheid (Ended by Nelson Mandela)
+`1948- 1994` South Africa apartheid policy (Ended by Nelson Mandela)
 
 `1949` Myanmar independence (from British)
 
@@ -268,3 +268,4 @@ China dominate 21st Century
 - China- Australia tensions (covid19, trade sanctions)
 - Thai political protest 
 - Russia Minsk protest
+- Indonesia omnibus law protest 
