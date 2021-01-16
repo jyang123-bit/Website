@@ -2,6 +2,13 @@ lastupdate: Oct 2, 2020
 list:
   - year: "2020"
     books:
+      - title: "Kitchen Confidential"
+        author: Anthony Bourdain
+        link: https://a.co/hL1Oz9G
+        genre: Autobiography
+        published: 2010
+        pages: 321 pages 
+        
       - title: "Open: An Autobiography"
         author: Andre Agassi
         link: https://a.co/i6CBs15
