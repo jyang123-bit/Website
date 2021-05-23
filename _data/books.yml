@@ -1,5 +1,21 @@
-lastupdate: Oct 2, 2020
+lastupdate: May 23, 2021
 list:
+- year: "2021"
+    books:
+      - title: "Adventure Capitalist: The Ultimate Road Trip"
+        author: Jim Rogers
+        link: https://a.co/am4eXPL
+        genre: Travel
+        published: 2004
+        pages: 380 pages 
+        
+      - title: "The Organization Man"
+        author: William H.Whyte
+        link: https://a.co/jhLvKPB
+        genre: Business
+        published: 1956
+        pages: 448 pages 
+        
   - year: "2020"
     books:
       - title: "Kitchen Confidential"
