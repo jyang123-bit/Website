@@ -2,7 +2,7 @@ lastupdate: May 23, 2021
 list:
   - year: "2021"
     books:
-    - title: "21 Lessons for the 21st Century"
+      - title: "21 Lessons for the 21st Century"
         author: Yuval Noah Harari
         link: https://a.co/a5PW0Qz
         genre: Social Philosophy
