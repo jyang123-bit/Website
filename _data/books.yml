@@ -2,13 +2,20 @@ lastupdate: May 23, 2021
 list:
   - year: "2021"
     books:
-      - title: "21 Lessons for the 21st Century"
-        author: Yuval Noah Harari
-        link: https://a.co/a5PW0Qz
-        genre: Social Philosophy
-        published: 2018
-        pages: 416 pages 
-    
+      - title: "Animal Farm"
+        author: George Orwell
+        link: https://a.co/7NU3EyZ
+        genre: Political Satire
+        published: 1945
+        pages: 113 pages 
+      
+      - title: "The Organization Man"
+        author: William H.Whyte
+        link: https://a.co/jhLvKPB
+        genre: Business
+        published: 1956
+        pages: 448 pages 
+        
       - title: "Adventure Capitalist: The Ultimate Road Trip"
         author: Jim Rogers
         link: https://a.co/am4eXPL
@@ -16,12 +23,12 @@ list:
         published: 2004
         pages: 380 pages 
         
-      - title: "The Organization Man"
-        author: William H.Whyte
-        link: https://a.co/jhLvKPB
-        genre: Business
-        published: 1956
-        pages: 448 pages 
+      - title: "21 Lessons for the 21st Century"
+        author: Yuval Noah Harari
+        link: https://a.co/a5PW0Qz
+        genre: Social Philosophy
+        published: 2018
+        pages: 416 pages 
         
   - year: "2020"
     books:
