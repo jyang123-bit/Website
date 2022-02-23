@@ -1,15 +1,30 @@
-lastupdate: May 23, 2021
+lastupdate: Feb 23, 2022
 list:
+
+  - year: "2022"
+    books:
+      - title: "The Happiness Project"
+        author: Gretchen Rubin
+        link: https://a.co/dCUIM7U
+        genre: Self Help 
+        published: 2009
+        pages: 315 pages 
+
+      - title: "How To Be Parisian Wherever You Are"
+        author: Anne Berest, Audrey Diwan, Caroline De Maigret & Sophie Mas
+        link: https://a.co/9LfsE3c
+        genre: Lifestyle
+        published: 2014
+        pages: 294 pages 
+
   - year: "2021"
     books:
-
-- title: "Women Don't Ask: Negotiation and the Gender Divide"
+      - title: "Women Don't Ask: Negotiation and the Gender Divide"
         author: Linda Babcock & Sara Laschever
         link: https://a.co/04UJzBdy
         genre: Gender 
         published: 2003
         pages: 247 pages 
-      
 
       - title: "Animal Farm"
         author: George Orwell
