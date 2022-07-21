@@ -33,6 +33,17 @@ last_modified_at:
   </div>
 </div>
 
+<div class="dropdown" style="float:right;">
+  <button class="dropbtn">Genres &#x2193;</button>
+  <div class="dropdown-content">
+    <a href="#Fiction">Fiction</a>
+    <a href="#2016">Business</a>
+    <a href="#Women">Women</a>
+    <a href="#Travel">Travel</a>
+    <a href="#Mental Health">Mental</a>
+  </div>
+</div>
+
 {% include books.html list=site.data.books %}
 
 
