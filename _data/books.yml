@@ -41,16 +41,16 @@ list:
       - title: "Feminine Mystique"
         author: Betty Friedan
         link: 
-        genre:  
+        genre: Women 
         published: 1963
         pages: 239 pages 
         
       - title: "The Happiness Project"
-        author: 
-        link: 
-        genre:  
-        published: 
-        pages:  pages   
+        author: Gretchen Rubin
+        link: https://a.co/fg6AjTo
+        genre: Mental Health 
+        published: 2009
+        pages: 368 pages   
 
       - title: "How To Be Parisian Wherever You Are"
         author: Anne Berest, Audrey Diwan, Caroline De Maigret & Sophie Mas
