@@ -41,6 +41,7 @@ last_modified_at:
     <a href="#Philosophy">Philosophy</a>
     <a href="#Fiction">Fiction</a>
     <a href="#Business">Business</a>
+    <a href="#Biography">Biography</a>
     <a href="#Women">Women</a>
     <a href="#Travel">Travel</a>
     <a href="#Mental Health">Mental Health</a>
