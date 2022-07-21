@@ -23,6 +23,8 @@ last_modified_at:
 <div class="dropdown" style="float:right;">
   <button class="dropbtn">In years &#x2193;</button>
   <div class="dropdown-content">
+    <a href="#2022">2022</a>
+    <a href="#2021">2021</a>
     <a href="#2020">2020</a>
     <a href="#2019">2019</a>
     <a href="#2018">2018</a>
@@ -37,10 +39,10 @@ last_modified_at:
   <button class="dropbtn">Genres &#x2193;</button>
   <div class="dropdown-content">
     <a href="#Fiction">Fiction</a>
-    <a href="#2016">Business</a>
+    <a href="#Business">Business</a>
     <a href="#Women">Women</a>
     <a href="#Travel">Travel</a>
-    <a href="#Mental Health">Mental</a>
+    <a href="#Mental Health">Mental Health</a>
   </div>
 </div>
 
