@@ -1,18 +1,18 @@
-lastupdate: Feb 23, 2022
+lastupdate: Jul 23, 2022
 list:
 
   - year: "2022"
     books:
       - title: "Burmese Days"
         author: George Orwell
-        link: 
-        genre:  
-        published: 
-        pages:  pages 
+        link: https://a.co/9SWGcly
+        genre: Fiction 
+        published: 1974
+        pages: 269 pages 
       
       - title: "The Sun Also Rises"
-        author: Ernest Hemmingway
-        link: 
+        author: Ernest Hemingway
+        link: https://a.co/9OwVf1y
         genre: Fiction 
         published: 1926
         pages: 194 pages 
