@@ -3,12 +3,54 @@ list:
 
   - year: "2022"
     books:
+      - title: "Burmese Days"
+        author: George Orwell
+        link: 
+        genre:  
+        published: 
+        pages:  pages 
+      
+      - title: "The Sun Also Rises"
+        author: Ernest Hemmingway
+        link: 
+        genre: Fiction 
+        published: 1926
+        pages: 194 pages 
+      
+      - title: "Meditation by Marcus Aurelius"
+        author: 
+        link: 
+        genre: Philosophy 
+        published: 
+        pages: 126 pages 
+      
+      - title: "Fortune teller told me"
+        author: Tiziano Terzani
+        link: 
+        genre:  
+        published: 
+        pages:  pages 
+      
+      - title: "The Metamorphosis"
+        author: Franz Kafka
+        link: 
+        genre:  
+        published: 1915
+        pages:  pages 
+      
+      - title: "Feminine Mystique"
+        author: Betty Friedan
+        link: 
+        genre:  
+        published: 1963
+        pages: 239 pages 
+        
       - title: "The Happiness Project"
-        author: Gretchen Rubin
-        link: https://a.co/dCUIM7U
-        genre: Self Help 
-        published: 2009
-        pages: 315 pages 
+        author: 
+        link: 
+        genre:  
+        published: 
+        pages:  pages   
 
       - title: "How To Be Parisian Wherever You Are"
         author: Anne Berest, Audrey Diwan, Caroline De Maigret & Sophie Mas
