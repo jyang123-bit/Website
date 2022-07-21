@@ -17,26 +17,26 @@ list:
         published: 1926
         pages: 194 pages 
       
-      - title: "Meditation by Marcus Aurelius"
+      - title: "The Meditations of Marcus Aurelius"
         author: 
         link: 
         genre: Philosophy 
         published: 
         pages: 126 pages 
       
-      - title: "Fortune teller told me"
+      - title: "A Fortune-teller told me: Earthbound travels in the Far East"
         author: Tiziano Terzani
-        link: 
-        genre:  
-        published: 
-        pages:  pages 
+        link: https://a.co/f3KR7bI
+        genre: Travel 
+        published: 1998
+        pages: 386 pages 
       
       - title: "The Metamorphosis"
         author: Franz Kafka
-        link: 
-        genre:  
+        link: https://a.co/8mX2mYW
+        genre: Fiction 
         published: 1915
-        pages:  pages 
+        pages: 67 pages 
       
       - title: "Feminine Mystique"
         author: Betty Friedan
