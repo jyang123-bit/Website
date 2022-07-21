@@ -38,6 +38,7 @@ last_modified_at:
 <div class="dropdown" style="float:right;">
   <button class="dropbtn">Genres &#x2193;</button>
   <div class="dropdown-content">
+    <a href="#Philosophy">Philosophy</a>
     <a href="#Fiction">Fiction</a>
     <a href="#Business">Business</a>
     <a href="#Women">Women</a>
