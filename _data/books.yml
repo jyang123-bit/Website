@@ -3,6 +3,13 @@ list:
 
   - year: "2022"
     books:
+      - title: "减法护肤"
+        author: Ryuichi Utsugi
+        link: 
+        genre: Skincare 
+        published: 2019
+        pages: 157 pages
+      
       - title: "Burmese Days"
         author: George Orwell
         link: https://a.co/9SWGcly
