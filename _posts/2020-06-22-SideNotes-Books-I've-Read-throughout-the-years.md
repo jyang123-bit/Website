@@ -40,9 +40,11 @@ last_modified_at:
   <div class="dropdown-content">
     <a href="#Philosophy">Philosophy</a>
     <a href="#Fiction">Fiction</a>
+    <a href="#Short">Short Stories</a>
     <a href="#Business">Business</a>
     <a href="#Biography">Biography</a>
-    <a href="#Women">Women</a>
+    <a href="#Women">Women Author</a>
+    <a href="#Men">Men Author</a>
     <a href="#Travel">Travel</a>
     <a href="#Mental Health">Mental Health</a>
   </div>
