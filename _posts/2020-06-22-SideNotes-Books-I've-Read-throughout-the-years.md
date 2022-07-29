@@ -39,7 +39,7 @@ last_modified_at:
   <button class="dropbtn">Genres &#x2193;</button>
   <div class="dropdown-content">
      <div class="genre">{{ book.genre }}
-      <div class="number">{{ entry.book.genre | size }}</div>
+      <div class="number">({{ entry.book.genre | size }})</div>
     </div>
  
   </div>
