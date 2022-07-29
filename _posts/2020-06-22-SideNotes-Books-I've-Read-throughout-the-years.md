@@ -36,12 +36,13 @@ last_modified_at:
 </div>
 
 <div class="dropdown" style="float:right;">
-  <button class="dropbtn">Genres &#x2193;</button>
+  <button class="dropbtn">Genresx &#x2193;</button>
   <div class="dropdown-content">
-     <div class="genre">{{ books.genre }}
-      <div class="number">({{ books.genre | size }})</div>
+    <li> 
+    <div class="genre">{{ entry.books.genre }}
+      <div class="number">({{ entry.books.genre | size }})</div>
     </div>
- 
+    </li>
   </div>
 </div>
 
