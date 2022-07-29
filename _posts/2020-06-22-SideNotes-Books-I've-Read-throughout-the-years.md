@@ -40,7 +40,7 @@ last_modified_at:
   <div class="dropdown-content">
     <div class="number">({{ entry.books.genre | size }})</div>
           
-          <span class="gendre">{{ book.genre }}</span>
+          <span class="genre">{{ book.genre }}</span>
     
     
     <a href="#Philosophy">Philosophy</a>
