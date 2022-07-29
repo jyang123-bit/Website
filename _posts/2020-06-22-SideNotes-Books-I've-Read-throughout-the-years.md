@@ -44,7 +44,7 @@ last_modified_at:
     <a href="#Business">Business</a>
     <a href="#Biography">Biography</a>
     <a href="#Women">Women Author</a>
-    <div class="number">({{ entry.books | size }})</div>
+    <div class="number">({{ entry.books.genre | size }})</div>
     <a href="#Men">Men Author</a>
     <a href="#Travel">Travel</a>
     <a href="#Mental Health">Mental Health</a>
