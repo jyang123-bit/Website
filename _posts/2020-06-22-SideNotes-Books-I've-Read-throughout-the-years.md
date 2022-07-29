@@ -21,7 +21,7 @@ last_modified_at:
 ---
 
 <div class="dropdown" style="float:right;">
-  <button class="dropbtn">In years &#x2193;</button>
+  <button class="dropbtn">Year of Published &#x2193;</button>
   <div class="dropdown-content">
     <a href="#2022">2022</a>
     <a href="#2021">2021</a>
@@ -38,8 +38,8 @@ last_modified_at:
 <div class="dropdown" style="float:right;">
   <button class="dropbtn">Genres &#x2193;</button>
   <div class="dropdown-content">
-     <div class="genre">{{ entry.books.genre }}
-      <div class="number">({{ entry.books.genre | size }})-</div>
+     <div class="genre">{{ books.genre }}
+      <div class="number">({{ books.genre | size }})</div>
     </div>
  
   </div>
