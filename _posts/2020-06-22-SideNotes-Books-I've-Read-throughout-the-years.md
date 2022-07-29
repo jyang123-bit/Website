@@ -38,8 +38,8 @@ last_modified_at:
 <div class="dropdown" style="float:right;">
   <button class="dropbtn">Genres &#x2193;</button>
   <div class="dropdown-content">
-     <div class="genre">{{ entry.genre }}
-      <div class="number">{{ entry.books | size }}</div>
+     <div class="genre">{{ book.genre }}
+      <div class="number">{{ entry.book.genre | size }}</div>
     </div>
  
   </div>
