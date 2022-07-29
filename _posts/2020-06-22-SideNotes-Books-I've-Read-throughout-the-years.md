@@ -38,16 +38,20 @@ last_modified_at:
 <div class="dropdown" style="float:right;">
   <button class="dropbtn">Genres &#x2193;</button>
   <div class="dropdown-content">
+    <div class="number">({{ entry.books.genre | size }})</div>
+          
+          <span class="gendre">{{ book.genre }}</span>
+    
+    
     <a href="#Philosophy">Philosophy</a>
     <a href="#Fiction">Fiction</a>
     <a href="#Short">Short Stories</a>
     <a href="#Business">Business</a>
     <a href="#Biography">Biography</a>
     <a href="#Women">Women Author</a>
-    <div class="number">({{ entry.books.genre | size }})</div>
     <a href="#Men">Men Author</a>
     <a href="#Travel">Travel</a>
-    <a href="#Mental Health">Mental Health</a>
+    <a href="#Mental">Mental Health</a>
   </div>
 </div>
 
