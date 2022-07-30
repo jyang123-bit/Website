@@ -3,6 +3,13 @@ list:
 
   - year: "2022"
     books:
+      - title: "A room of one's own"
+        author: Virginia Woolf
+        link: 
+        genre: Women 
+        published: 
+        pages:  pages
+
       - title: "减法护肤"
         author: Dr.Ryuichi Utsugi
         link: 
