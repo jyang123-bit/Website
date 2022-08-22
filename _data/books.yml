@@ -37,6 +37,7 @@ list:
         genre: Philosophy 
         published: 
         pages: 126 pages 
+        star: *
       
       - title: "A Fortune-teller told me: Earthbound travels in the Far East"
         author: Tiziano Terzani
