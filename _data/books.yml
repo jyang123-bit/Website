@@ -37,7 +37,7 @@ list:
         genre: Philosophy 
         published: 
         pages: 126 pages 
-        star: *
+        star: ★
       
       - title: "A Fortune-teller told me: Earthbound travels in the Far East"
         author: Tiziano Terzani
@@ -45,6 +45,7 @@ list:
         genre: Travel 
         published: 1998
         pages: 386 pages 
+        star: ★
       
       - title: "The Metamorphosis"
         author: Franz Kafka
@@ -103,6 +104,7 @@ list:
         genre: Travel
         published: 2004
         pages: 380 pages 
+        star: ★
         
       - title: "21 Lessons for the 21st Century"
         author: Yuval Noah Harari
@@ -189,6 +191,7 @@ list:
         genre: Business
         published: 2013
         pages: 274 pages
+        star: ★
         
       - title: Dear Girls
         author: Ali Wong
@@ -233,6 +236,7 @@ list:
         genre: Memoir
         published: 2014 
         pages: 113 pages 
+        star: ★
         
       - title: "The Moment of Lift: How Empowering Women Changes the World"
         author: Melinda Gates
@@ -338,7 +342,7 @@ list:
       - title: The Alchemist
         author: Paolo Coelho
         link: https://a.co/gWxAWRN
-        star: 
+        star: ★
        
       - title: The Diary of a Young Girl
         author: Anne Frank
@@ -394,7 +398,7 @@ list:
       - title: "Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not!"
         author: Robert T.Kiyosaki
         link: https://a.co/b3kSWmw
-        star: 
+        star: ★
         
       - title: A good month in Greece 
         author: Unknown
