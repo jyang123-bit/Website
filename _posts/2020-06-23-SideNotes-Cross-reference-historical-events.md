@@ -152,6 +152,8 @@ Great Britain dominated 19th century
 
 `1950s- 1960s` Polio
 
+`1952` Malaya granted full citizenship to chinese immigrants born in malaya 
+
 `1953` Cambodia independence (from France) 
 
 `1955` Bill Gates born
