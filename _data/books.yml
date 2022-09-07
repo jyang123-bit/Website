@@ -3,6 +3,13 @@ list:
 
   - year: "2022"
     books:
+      - title: "Confessions of an Advertising Man"
+        author: David Ogilvy 
+        link: 
+        genre:  
+        published: 2011
+        pages: 182 pages
+
       - title: "A room of one's own"
         author: Virginia Woolf
         link: 
