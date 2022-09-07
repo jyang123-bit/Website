@@ -15,7 +15,7 @@ last_modified_at:
 
 
 <p class="message">
-  <span class="padded-dropcap">A</span> list of collective wisdom, picking up from the knowledge of many great authors.
+  <span class="padded-dropcap">A</span> list of collective wisdom, picking up from the knowledge of brilliant minds.
 </p>
 
 ---
@@ -36,7 +36,7 @@ last_modified_at:
 </div>
 
 <div class="dropdown" style="float:right;">
-  <button class="dropbtn">Genresx &#x2193;</button>
+  <button class="dropbtn">Genres &#x2193;</button>
   <div class="dropdown-content">
     <li> 
     <div class="genre">{{ entry.books.genre }}
