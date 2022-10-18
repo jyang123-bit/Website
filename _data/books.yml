@@ -3,6 +3,13 @@ list:
 
   - year: "2022"
     books:
+      - title: "Twilight over Burma:My Life as a Shan Princess"
+        author: Inge Sargent
+        link: 
+        genre: Biography 
+        published: 1994
+        pages: 240 pages
+
       - title: "Confessions of an Advertising Man"
         author: David Ogilvy 
         link: 
