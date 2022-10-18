@@ -5,7 +5,7 @@ list:
     books:
       - title: "Twilight over Burma:My Life as a Shan Princess"
         author: Inge Sargent
-        link: 
+        link: https://a.co/6kluJ5v
         genre: Biography 
         published: 1994
         pages: 240 pages
@@ -13,7 +13,7 @@ list:
       - title: "Confessions of an Advertising Man"
         author: David Ogilvy 
         link: 
-        genre:  
+        genre: Advertising  
         published: 2011
         pages: 182 pages
 
