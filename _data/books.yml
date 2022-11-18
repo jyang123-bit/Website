@@ -3,6 +3,13 @@ list:
 
   - year: "2022"
     books:
+      - title: "What My Bones Know"
+        author: Stephanie Foo
+        link: 
+        genre: Mental Health 
+        published: 2022
+        pages: 331 pages
+
       - title: "Twilight over Burma:My Life as a Shan Princess"
         author: Inge Sargent
         link: https://a.co/6kluJ5v
