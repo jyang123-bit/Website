@@ -1,5 +1,14 @@
-lastupdate: Nov 18, 2022
+lastupdate: May 7, 2023
 list:
+
+ - year: "2023"
+    books:
+      - title: "I May Be Wrong"
+        author: Björn Natthiko Lindeblad
+        link: 
+        genre: Meditation 
+        published: 2022
+        pages: 237 pages
 
   - year: "2022"
     books:
