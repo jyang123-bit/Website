@@ -6,15 +6,15 @@ list:
       - title: "A small place in Italy"
         author: Eric Newby
         link: 
-        genre: xx
-        published: 2021
+        genre: Memoir
+        published: 2017
         pages: 225 pages
 
       - title: "The unfinished palazzo"
         author: Judith Mackrell
         link: 
-        genre: xx
-        published: 2021
+        genre: Non-fiction
+        published: 2017
         pages: 388 pages
 
       - title: "Italy & Malaysia: A Journey through time"
@@ -24,18 +24,18 @@ list:
         published: 2025
         pages: 120 pages
 
-      - title: "Living in a foreign language"
+      - title: "Living in a foreign language: A Memoir of food, wine and love in Italy"
         author: Michael Tucker
         link: 
         genre: Memoir
-        published: 2025
+        published: 2008
         pages: 255 pages
 
       - title: "Planter's upriver"
         author: Mahbob Abdullah
         link: 
-        genre: Memoir
-        published: 2025
+        genre: Non-fiction
+        published: 2008
         pages: 336 pages
  
   - year: "2023"
@@ -43,7 +43,7 @@ list:
       - title: "The twilight world"
         author: Werner Herzog
         link: 
-        genre: xx
+        genre: Fiction
         published: 2021
         pages: 132 pages
 
