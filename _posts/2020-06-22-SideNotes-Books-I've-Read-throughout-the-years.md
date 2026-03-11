@@ -21,8 +21,10 @@ last_modified_at:
 ---
 
 <div class="dropdown" style="float:right;">
-  <button class="dropbtn">Year of Published &#x2193;</button>
+  <button class="dropbtn">Year of Reading &#x2193;</button>
   <div class="dropdown-content">
+    <a href="#2025">2025</a>
+    <a href="#2023">2023</a>
     <a href="#2022">2022</a>
     <a href="#2021">2021</a>
     <a href="#2020">2020</a>
