@@ -5,67 +5,76 @@ list:
     books:
       - title: "A small place in Italy"
         author: Eric Newby
-        link: 
+        link: https://a.co/d/0i1bhm0v
         genre: Memoir
         published: 2017
         pages: 225 pages
 
-      - title: "The unfinished palazzo"
+      - title: "The unfinished palazzo: Life, love and art in Venice"
         author: Judith Mackrell
-        link: 
+        link: https://a.co/d/0gXuVHs0
         genre: Non-fiction
         published: 2017
         pages: 388 pages
 
       - title: "Italy & Malaysia: A Journey through time"
         author: Ambassador Massimo Rustico
-        link: 
         genre: Diplomacy
         published: 2025
         pages: 120 pages
 
       - title: "Living in a foreign language: A Memoir of food, wine and love in Italy"
         author: Michael Tucker
-        link: 
+        link: https://a.co/d/0a735d8Q
         genre: Memoir
         published: 2008
         pages: 255 pages
 
       - title: "Planter's upriver"
         author: Mahbob Abdullah
-        link: 
+        link: https://a.co/d/0hRUvOvE
         genre: Non-fiction
         published: 2008
         pages: 336 pages
+
+ - year: "2024"
+    books:
+
+      - title: ""
+        author: 
+        link: 
+        genre: 
+        published: 
+        pages:
  
   - year: "2023"
     books:
       - title: "The twilight world"
         author: Werner Herzog
-        link: 
+        link: https://a.co/d/0a60EuHa
         genre: Fiction
         published: 2021
         pages: 132 pages
 
       - title: "Stories of The Chinese Overseas"
         author: Suchen Christine Lim
-        link: 
+        link: https://a.co/d/0d9MtE0O
         genre: History
         published: 2005
         pages: 263 pages
 
       - title: "I May Be Wrong"
         author: Björn Natthiko Lindeblad
-        link: 
+        link: https://a.co/d/03LTJUwn
         genre: Meditation 
         published: 2022
         pages: 237 pages
 
   - year: "2022"
     books:
-      - title: "What My Bones Know"
+      - title: "What My Bones Know: A Memoir of healing from complex trauma"
         author: Stephanie Foo
-        link: 
+        link: https://a.co/d/0h3Ulnm8
         genre: Mental Health 
         published: 2022
         pages: 331 pages
