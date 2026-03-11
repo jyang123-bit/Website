@@ -1,17 +1,59 @@
-lastupdate: May 7, 2023
+lastupdate: March 11, 2026
 list:
 
+  - year: "2025"
+    books:
+      - title: "A small place in Italy"
+        author: Eric Newby
+        link: 
+        genre: xx
+        published: 2021
+        pages: 225 pages
+
+      - title: "The unfinished palazzo"
+        author: Judith Mackrell
+        link: 
+        genre: xx
+        published: 2021
+        pages: 388 pages
+
+      - title: "Italy & Malaysia: A Journey through time"
+        author: Ambassador Massimo Rustico
+        link: 
+        genre: Diplomacy
+        published: 2025
+        pages: 120 pages
+
+      - title: "Living in a foreign language"
+        author: Michael Tucker
+        link: 
+        genre: Memoir
+        published: 2025
+        pages: 255 pages
+
+      - title: "Planter's upriver"
+        author: Mahbob Abdullah
+        link: 
+        genre: Memoir
+        published: 2025
+        pages: 336 pages
+ 
   - year: "2023"
     books:
+      - title: "The twilight world"
+        author: Werner Herzog
+        link: 
+        genre: xx
+        published: 2021
+        pages: 132 pages
+
       - title: "Stories of The Chinese Overseas"
         author: Suchen Christine Lim
         link: 
-        genre: Historu
+        genre: History
         published: 2005
         pages: 263 pages
 
-  - year: "2023"
-    books:
       - title: "I May Be Wrong"
         author: Björn Natthiko Lindeblad
         link: 
