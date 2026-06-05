@@ -218,7 +218,11 @@ Great Britain dominated 19th century
 
 `1993` Czech Republic & Slovakia split
 
+`1994` Amazon orginally founded as Cadabra
+
 `1998` Stock bubble
+
+`1998` Google created
 
 `1999` Cambodia (open for tourism)
 
@@ -236,11 +240,19 @@ USA dominated 20th century
 
 `2004` Sumatra earthquake & tsunami
 
+`2004` Facebook created and now META in 2021
+
 `2005- 2012` HIV/AIDS pandemic
+
+`2006` Twitter created and now X in 2023
 
 `2007- 2009` the Great Recession due to financial crisis (collateral debt + credit default swaps)
 
 `2009- 2010` H1N1/09 swine flu pandemic
+
+`2009` Weibo created
+
+`2011` WeChat created
 
 `2015- 2018` GST
 
