@@ -1,8 +1,15 @@
-lastupdate: March 11, 2026
+lastupdate: June 05, 2026
 list:
 
   - year: "2025"
     books:
+      - title: "Digital Inclusion In An Unequal World: An Emancipatory Manifesto"
+        author: Tim Unwin
+        link: https://timunwin.blog/my-books/diuw/
+        genre: 
+        published: 2026
+        pages: 180 pages
+        
       - title: "A small place in Italy"
         author: Eric Newby
         link: https://a.co/d/0i1bhm0v
