@@ -32,6 +32,7 @@ last_modified_at: 5 June 2026
 ---
 ## Time Machine 
 To get a better picture of a particular time in history, these are the links I would recommend:   
+  - Digital technology evolution <a href="https://timunwin.blog/my-books/diuw/">Tim Unwin</a> from `1990` to `2026`.
   - Travelogue footage of <a href="https://www.youtube.com/c/michaelijsbrand/about">Michael Rogge</a> from `1912` to `2011`.
   - [The Travel Film Archive](http://www.travelfilmarchive.com/home.php) from `1900` to `1970`.
   - Newsreel and documentaries archive by <a href="https://www.youtube.com/c/britishpathe/about">British Pathé</a> from `1910` to `1984`.
