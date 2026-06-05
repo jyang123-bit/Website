@@ -40,7 +40,7 @@ To get a better picture of a particular time in history, these are the links I w
   
 ---  
 ## Timeline 
-lastupdate: June 05, 2026
+last updated: June 05, 2026
 
 `802- 1431`<kbd>(years)</kbd> Angkor Empire(Khmer)
 
