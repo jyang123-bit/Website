@@ -11,7 +11,7 @@ tags:
   - Cross-reference
   - Historical events
 
-last_modified_at: 5 June 2026
+last_modified_at:
 ---
 
 <p class="message">
@@ -40,6 +40,8 @@ To get a better picture of a particular time in history, these are the links I w
   
 ---  
 ## Timeline 
+lastupdate: June 05, 2026
+
 `802- 1431`<kbd>(years)</kbd> Angkor Empire(Khmer)
 
 `849- 1297`<kbd>(years)</kbd> Bagan Empire
